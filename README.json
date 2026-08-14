@@ -1,0 +1,552 @@
+{
+  "items": [
+    {
+      "description": "New to cellular security research? This section outlines the recommended path for building foundational skills.",
+      "items": [],
+      "title": "Getting Started"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rogue Base Stations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recent Updates (2024-2025)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenBTS 2024 Reloaded — Updated for modern UHD drivers and Ubuntu 22.04/24.04",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-29T23:58:26Z",
+            "owner": "PentHertz",
+            "repo": "OpenBTS",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5GBaseChecker — Automated 5G baseband vulnerability detection tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-01-22T17:04:13Z",
+            "owner": "SyNSec-den",
+            "repo": "5GBaseChecker",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DragonOS — Ubuntu-based SDR distro with cellular tools pre-installed",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Base Station Software and Tools (Updated)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Software and Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Base Station Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IMSI-Catcher Detector — Android app for detecting IMSI catchers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-12T17:01:25Z",
+            "owner": "CellularPrivacy",
+            "repo": "Android-IMSI-Catcher-Detector",
+            "stars": 5385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LTE Sniffer — Open-source LTE downlink/uplink eavesdropper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-23T16:48:32Z",
+            "owner": "SysSec-KAIST",
+            "repo": "LTESniffer",
+            "stars": 2215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gr-gsm — GSM analysis with GNU Radio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-10T11:49:09Z",
+            "owner": "ptrkrysik",
+            "repo": "gr-gsm",
+            "stars": 1492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LTE-Cell-Scanner — LTE cell detection and analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-02-26T07:05:38Z",
+            "owner": "Evrytania",
+            "repo": "LTE-Cell-Scanner",
+            "stars": 665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCAT — Signaling Collection and Analysis Tool; captures diagnostic logs from Qualcomm and Samsung basebands",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T23:17:49Z",
+            "owner": "fgsect",
+            "repo": "scat",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SigPloit — SS7/Diameter/GTP/SIP signaling security testing framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-12-17T16:51:23Z",
+            "owner": "SigPloiter",
+            "repo": "SigPloit",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FALCON LTE — Fast analysis of LTE control channels in real-time",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-13T12:50:06Z",
+            "owner": "falkenber9",
+            "repo": "falcon",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kalibrate — GSM base station scanner and frequency calibration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-03-21T03:06:14Z",
+            "owner": "scateu",
+            "repo": "kalibrate-hackrf",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5GBaseChecker — Automated 5G baseband vulnerability detection (Penn State, 2024)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-01-22T17:04:13Z",
+            "owner": "SyNSec-den",
+            "repo": "5GBaseChecker",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modmobmap — Mobile network mapping",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T14:06:59Z",
+            "owner": "Synacktiv-contrib",
+            "repo": "Modmobmap",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modmobjam — Mobile jamming research tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-30T20:03:37Z",
+            "owner": "Synacktiv-contrib",
+            "repo": "Modmobjam",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diameter EAP Tool (DET) — Diameter protocol fuzzing and testing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-05T03:39:13Z",
+            "owner": "IntelMQ",
+            "repo": "intelmq",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LTEFuzz — LTE protocol fuzzer from KAIST, predecessor to CITesting; generates malformed NAS/RRC messages",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Crocodile Hunter — EFF open-source tool for detecting rogue cell towers by wardriving",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Analysis Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware Setup"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "USRP Installation on Linux"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SDR Hardware Options"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Common SDR Issues and Troubleshooting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing and Research Methodologies"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "5GBaseChecker — Automated 5G baseband vulnerability detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-01-22T17:04:13Z",
+            "owner": "SyNSec-den",
+            "repo": "5GBaseChecker",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "certmitm — TLS implementation testing tool",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Vulnerability Research Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Attack Vectors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ENISA 5G Threat Landscape",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5GReasoner Analysis Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5G NR Jamming, Spoofing, and Sniffing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Insecure Connection Bootstrapping in Cellular Networks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protecting 4G and 5G Cellular Paging Protocols",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3977
+          }
+        }
+      ],
+      "title": "5G Security Research"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Breaking LTE on Layer Two",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LTE/LTE-A Jamming, Spoofing, and Sniffing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LTE Protocol Exploits",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Practical Attacks Against Privacy and Availability",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LTE Security Assessment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3977
+          }
+        }
+      ],
+      "title": "LTE/4G Security Research"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Conference Talks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Research Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Equipment and Hardware"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Research Equipment Used in \"Over The Air Baseband Exploit\""
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Detection and Defense"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SS7 and Telecom Infrastructure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SigPloit — Modular testing framework for SS7, Diameter, GTP, and SIP; covers location tracking, call/SMS interception, and DoS scenarios",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-12-17T16:51:23Z",
+            "owner": "SigPloiter",
+            "repo": "SigPloit",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCTP scanner — Discovers SCTP-based SS7 endpoints on IP networks",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "SS7/Diameter Testing Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Surveillance Technology"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    },
+    {
+      "description": "Fork the repo, add resources with descriptions, verify links are active, and submit a pull request with context on what was added.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "This repository is for educational and research purposes only. Users are responsible for complying with all applicable laws and regulations. The maintainers do not endorse or encourage illegal activities.\nLast Updated: March 2026 Maintainer: @W00t3k\nBroken links or new resources? Open an issue or submit a PR.",
+      "items": [],
+      "title": "Legal Notice"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:27:29.762Z",
+    "original_repository": "W00t3k/Awesome-Cellular-Hacking",
+    "original_repository_sha": "86dbb085fd3ae5c2612a897e90d6d9252e8f40bf",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Cellular-Hacking",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cellular Hacking with stars"
+  }
+}
