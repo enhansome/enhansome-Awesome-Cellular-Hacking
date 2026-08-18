@@ -79,7 +79,7 @@
             "last_commit": "2026-07-12T17:01:25Z",
             "owner": "CellularPrivacy",
             "repo": "Android-IMSI-Catcher-Detector",
-            "stars": 5388
+            "stars": 5390
           }
         },
         {
@@ -121,7 +121,7 @@
             "last_commit": "2019-02-26T07:05:38Z",
             "owner": "Evrytania",
             "repo": "LTE-Cell-Scanner",
-            "stars": 666
+            "stars": 667
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2019-12-17T16:51:23Z",
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 387
+            "stars": 386
           }
         },
         {
@@ -503,7 +503,7 @@
             "last_commit": "2019-12-17T16:51:23Z",
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 387
+            "stars": 386
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:23:32.366Z",
+    "last_updated": "2026-08-18T02:19:30.980Z",
     "original_repository": "W00t3k/Awesome-Cellular-Hacking",
     "original_repository_sha": "86dbb085fd3ae5c2612a897e90d6d9252e8f40bf",
     "enhanced_repository": "enhansome/enhansome-Awesome-Cellular-Hacking",

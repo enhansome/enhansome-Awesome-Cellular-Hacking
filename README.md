@@ -158,25 +158,25 @@ New to cellular security research? This section outlines the recommended path fo
 | **OpenBTS (Original)**      | Range Networks implementation                                | [SourceForge](https://sourceforge.net/projects/openbts/)                                   |
 | **YateBTS**                 | GSM/GPRS radio access network implementation                 | [Website](https://yatebts.com/)                                                            |
 | **srsRAN Project**          | Open-source 5G O-RAN CU/DU software suite                    | [GitHub](https://github.com/srsran/srsRAN_Project) ⚠️ Archived                             |
-| **srsRAN 4G**               | Open-source 4G software radio suite                          | [GitHub](https://github.com/srsran/srsRAN_4G) ⭐ 4,043 \| 🐛 347 \| 🌐 C++ \| 📅 2026-01-26 |
+| **srsRAN 4G**               | Open-source 4G software radio suite                          | [GitHub](https://github.com/srsran/srsRAN_4G) ⭐ 4,045 \| 🐛 347 \| 🌐 C++ \| 📅 2026-01-26 |
 | **OpenAirInterface**        | Complete 4G/5G protocol stack                                | [Website](https://openairinterface.org/)                                                   |
-| **Free5GC**                 | Open-source 5G core network implementation                   | [GitHub](https://github.com/free5gc/free5gc) ⭐ 2,347 \| 🐛 80 \| 🌐 Go \| 📅 2026-08-13    |
+| **Free5GC**                 | Open-source 5G core network implementation                   | [GitHub](https://github.com/free5gc/free5gc) ⭐ 2,347 \| 🐛 71 \| 🌐 Go \| 📅 2026-08-13    |
 | **Kamailio**                | Open-source SIP server used in IMS/VoLTE labs                | [Website](https://www.kamailio.org/)                                                       |
 
 ### Configuration Guides
 
-* **[BladeRF and YateBTS Configuration](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF) ⭐ 1,359 | 🐛 147 | 🌐 C | 📅 2026-08-13**
+* **[BladeRF and YateBTS Configuration](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF) ⭐ 1,359 | 🐛 149 | 🌐 C | 📅 2026-08-13**
 * **[srsRAN Project Documentation](https://docs.srsran.com/projects/project)**
 * **[srsRAN 4G Documentation](https://docs.srsran.com/projects/4g)**
 
 ### Analysis Tools
 
-* **[IMSI-Catcher Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) ⭐ 5,388 | 🐛 183 | 🌐 Java | 📅 2026-07-12** — Android app for detecting IMSI catchers
+* **[IMSI-Catcher Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) ⭐ 5,390 | 🐛 183 | 🌐 Java | 📅 2026-07-12** — Android app for detecting IMSI catchers
 * **[LTE Sniffer](https://github.com/SysSec-KAIST/LTESniffer) ⭐ 2,214 | 🐛 25 | 🌐 C++ | 📅 2024-10-23** — Open-source LTE downlink/uplink eavesdropper
 * **[gr-gsm](https://github.com/ptrkrysik/gr-gsm/wiki/Passive-IMSI-Catcher) ⭐ 1,493 | 🐛 163 | 🌐 C++ | 📅 2025-03-10** — GSM analysis with GNU Radio
-* **[LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) ⭐ 666 | 🐛 33 | 🌐 C++ | 📅 2019-02-26** — LTE cell detection and analysis
+* **[LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) ⭐ 667 | 🐛 33 | 🌐 C++ | 📅 2019-02-26** — LTE cell detection and analysis
 * **[SCAT](https://github.com/fgsect/scat) ⭐ 524 | 🐛 16 | 🌐 Python | 📅 2026-06-19** — Signaling Collection and Analysis Tool; captures diagnostic logs from Qualcomm and Samsung basebands
-* **[SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 387 | 🐛 60 | 🌐 Java | 📅 2019-12-17** — SS7/Diameter/GTP/SIP signaling security testing framework
+* **[SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 386 | 🐛 60 | 🌐 Java | 📅 2019-12-17** — SS7/Diameter/GTP/SIP signaling security testing framework
 * **[FALCON LTE](https://github.com/falkenber9/falcon) ⭐ 359 | 🐛 16 | 🌐 C++ | 📅 2023-10-13** — Fast analysis of LTE control channels in real-time
 * **[Kalibrate](https://github.com/scateu/kalibrate-hackrf) ⭐ 306 | 🐛 18 | 🌐 C++ | 📅 2022-03-21** — GSM base station scanner and frequency calibration
 * **[5GBaseChecker](https://github.com/SyNSec-den/5GBaseChecker) ⭐ 116 | 🐛 3 | 🌐 C | 📅 2025-01-22** — Automated 5G baseband vulnerability detection (Penn State, 2024)
@@ -446,10 +446,10 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 | Component       | Purpose                     | Link                                                                                                       |
 | --------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | Ettus USRP B210 | Software Defined Radio      | [Product Page](https://www.ettus.com/all-products/ub210-kit/)                                              |
-| srsENB          | 4G/5G Base Station Software | [GitHub](https://github.com/srsran/srsRAN/tree/master/srsenb) ⭐ 4,043 \| 🐛 347 \| 🌐 C++ \| 📅 2026-01-26 |
+| srsENB          | 4G/5G Base Station Software | [GitHub](https://github.com/srsran/srsRAN/tree/master/srsenb) ⭐ 4,045 \| 🐛 347 \| 🌐 C++ \| 📅 2026-01-26 |
 | Open5GS         | 5G Core Network             | [GitHub](https://github.com/open5gs)                                                                       |
 | sysmo-usim-tool | SIM Programming             | [Project Page](https://osmocom.org/projects/cellular-infrastructure/wiki/SysmoISIM-SJA2)                   |
-| pysim           | SIM Analysis Tool           | [GitHub](https://github.com/osmocom/pysim) ⭐ 575 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-10                     |
+| pysim           | SIM Analysis Tool           | [GitHub](https://github.com/osmocom/pysim) ⭐ 574 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-10                     |
 | CoIMS           | VoLTE Testing               | [Play Store](https://play.google.com/store/apps/details?id=com.sherle.coims)                               |
 | Docker Open5GS  | Containerized Core          | [Tutorial](https://open5gs.org/open5gs/docs/tutorial/03-VoLTE-dockerized/)                                 |
 
@@ -468,7 +468,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 * **[SeaGlass: City-Wide IMSI-Catcher Detection](https://seaglass.cs.washington.edu/)** — UW
 * **[SeaGlass Research Paper](https://seaglass-web.s3.amazonaws.com/SeaGlass___PETS_2017.pdf)** — PETS 2017
 * **[Evaluating IMSI Catcher Detectors](http://www.cs.ox.ac.uk/files/9192/paper-final-woot-imsi.pdf)** — Oxford
-* **[IMSI-Catcher Detector (Android)](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) ⭐ 5,388 | 🐛 183 | 🌐 Java | 📅 2026-07-12**
+* **[IMSI-Catcher Detector (Android)](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) ⭐ 5,390 | 🐛 183 | 🌐 Java | 📅 2026-07-12**
 
 ### Security Advisories
 
@@ -554,7 +554,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### SS7/Diameter Testing Tools
 
-* **[SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 387 | 🐛 60 | 🌐 Java | 📅 2019-12-17** — Modular testing framework for SS7, Diameter, GTP, and SIP; covers location tracking, call/SMS interception, and DoS scenarios
+* **[SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 386 | 🐛 60 | 🌐 Java | 📅 2019-12-17** — Modular testing framework for SS7, Diameter, GTP, and SIP; covers location tracking, call/SMS interception, and DoS scenarios
 * **[ss7map](https://ss7map.p1sec.com/)** — Automated SS7 network topology and exposure mapper
 * **[SCTP scanner](https://github.com/adagilabs/sctp_scanner)** — Discovers SCTP-based SS7 endpoints on IP networks
 
@@ -624,7 +624,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 * **[RTL-SDR Community](https://www.rtl-sdr.com/)** — SDR resources and tutorials
 * **[MCC-MNC Database](http://www.mcc-mnc.com/)** — Mobile Country/Network Code reference
-* **[RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) ⭐ 1,718 | 🐛 1 | 📅 2024-05-28** — RF security testing tools
+* **[RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) ⭐ 1,719 | 🐛 1 | 📅 2024-05-28** — RF security testing tools
 * **[cellularsecurity.org](https://cellularsecurity.org/)** — Community resource for cellular security research
 
 ### Research Collections
@@ -692,4 +692,4 @@ This repository is for educational and research purposes only. Users are respons
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
