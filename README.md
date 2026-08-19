@@ -160,19 +160,19 @@ New to cellular security research? This section outlines the recommended path fo
 | **srsRAN Project**          | Open-source 5G O-RAN CU/DU software suite                    | [GitHub](https://github.com/srsran/srsRAN_Project) ⚠️ Archived                             |
 | **srsRAN 4G**               | Open-source 4G software radio suite                          | [GitHub](https://github.com/srsran/srsRAN_4G) ⭐ 4,045 \| 🐛 347 \| 🌐 C++ \| 📅 2026-01-26 |
 | **OpenAirInterface**        | Complete 4G/5G protocol stack                                | [Website](https://openairinterface.org/)                                                   |
-| **Free5GC**                 | Open-source 5G core network implementation                   | [GitHub](https://github.com/free5gc/free5gc) ⭐ 2,347 \| 🐛 71 \| 🌐 Go \| 📅 2026-08-13    |
+| **Free5GC**                 | Open-source 5G core network implementation                   | [GitHub](https://github.com/free5gc/free5gc) ⭐ 2,348 \| 🐛 71 \| 🌐 Go \| 📅 2026-08-13    |
 | **Kamailio**                | Open-source SIP server used in IMS/VoLTE labs                | [Website](https://www.kamailio.org/)                                                       |
 
 ### Configuration Guides
 
-* **[BladeRF and YateBTS Configuration](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF) ⭐ 1,359 | 🐛 149 | 🌐 C | 📅 2026-08-13**
+* **[BladeRF and YateBTS Configuration](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF) ⭐ 1,359 | 🐛 151 | 🌐 C | 📅 2026-08-13**
 * **[srsRAN Project Documentation](https://docs.srsran.com/projects/project)**
 * **[srsRAN 4G Documentation](https://docs.srsran.com/projects/4g)**
 
 ### Analysis Tools
 
-* **[IMSI-Catcher Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) ⭐ 5,390 | 🐛 183 | 🌐 Java | 📅 2026-07-12** — Android app for detecting IMSI catchers
-* **[LTE Sniffer](https://github.com/SysSec-KAIST/LTESniffer) ⭐ 2,214 | 🐛 25 | 🌐 C++ | 📅 2024-10-23** — Open-source LTE downlink/uplink eavesdropper
+* **[IMSI-Catcher Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) ⭐ 5,392 | 🐛 183 | 🌐 Java | 📅 2026-07-12** — Android app for detecting IMSI catchers
+* **[LTE Sniffer](https://github.com/SysSec-KAIST/LTESniffer) ⭐ 2,216 | 🐛 25 | 🌐 C++ | 📅 2024-10-23** — Open-source LTE downlink/uplink eavesdropper
 * **[gr-gsm](https://github.com/ptrkrysik/gr-gsm/wiki/Passive-IMSI-Catcher) ⭐ 1,493 | 🐛 163 | 🌐 C++ | 📅 2025-03-10** — GSM analysis with GNU Radio
 * **[LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) ⭐ 667 | 🐛 33 | 🌐 C++ | 📅 2019-02-26** — LTE cell detection and analysis
 * **[SCAT](https://github.com/fgsect/scat) ⭐ 524 | 🐛 16 | 🌐 Python | 📅 2026-06-19** — Signaling Collection and Analysis Tool; captures diagnostic logs from Qualcomm and Samsung basebands
@@ -305,11 +305,11 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### 5G Security Research
 
-* **[ENISA 5G Threat Landscape](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/ENISA-5G-threat-landscape.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21**
-* **[5GReasoner Analysis Framework](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/5GReasoner.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21**
-* **[5G NR Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/5gjam.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21**
-* **[Insecure Connection Bootstrapping in Cellular Networks](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/wisec19-preprint.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21**
-* **[Protecting 4G and 5G Cellular Paging Protocols](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/popets-2020-0008.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21**
+* **[ENISA 5G Threat Landscape](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/ENISA-5G-threat-landscape.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21**
+* **[5GReasoner Analysis Framework](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/5GReasoner.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21**
+* **[5G NR Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/5gjam.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21**
+* **[Insecure Connection Bootstrapping in Cellular Networks](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/wisec19-preprint.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21**
+* **[Protecting 4G and 5G Cellular Paging Protocols](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/popets-2020-0008.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21**
 * **[Privacy Attacks on 4G/5G Paging Protocols](https://assets.documentcloud.org/documents/5749002/4G-5G-paper-at-NDSS-2019.pdf)** — NDSS 2019
 * **[European 5G Security in the Wild](https://arxiv.org/pdf/2305.08635.pdf)** — 2023
 * **[5G Threat Modeling Framework](https://arxiv.org/pdf/2005.05110v1.pdf)**
@@ -319,11 +319,11 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### LTE/4G Security Research
 
-* **[Breaking LTE on Layer Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/breaking-lte-layer-two.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21**
-* **[LTE/LTE-A Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-jamming-magazine.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21**
-* **[LTE Protocol Exploits](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-security-TakeDownCon.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21**
-* **[Practical Attacks Against Privacy and Availability](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/Prac-4G-Attacks.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21**
-* **[LTE Security Assessment](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-open-source-HackerHalted.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21**
+* **[Breaking LTE on Layer Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/breaking-lte-layer-two.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21**
+* **[LTE/LTE-A Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-jamming-magazine.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21**
+* **[LTE Protocol Exploits](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-security-TakeDownCon.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21**
+* **[Practical Attacks Against Privacy and Availability](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/Prac-4G-Attacks.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21**
+* **[LTE Security Assessment](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-open-source-HackerHalted.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21**
 * **[LTRACK: Stealthy Mobile Phone Tracking](https://www.usenix.org/system/files/sec22summer_kotuliak.pdf)** — USENIX Security 2022
 * **[Detecting Fake 4G Base Stations in Real Time](https://i.blackhat.com/USA-20/Wednesday/us-20-Quintin-Detecting-Fake-4G-Base-Stations-In-Real-Time.pdf)** — Black Hat 2020
 * **[BaseSAFE: Baseband Fuzzing](https://arxiv.org/pdf/2005.07797.pdf)**
@@ -384,7 +384,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 ### Additional Conference Resources
 
 * **[NSA PLAYSET GSM](https://www.defcon.org/images/defcon-22/dc-22-presentations/Pierce-Loki/DEFCON-22-Pierce-Loki-NSA-PLAYSET-GSM.pdf)** — DEF CON 22
-* **[VoLTE Phreaking](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/talks/HAXPO-VoLTE-Phreaking-Ralph-Moonen.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21** — Ralph Moonen
+* **[VoLTE Phreaking](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/talks/HAXPO-VoLTE-Phreaking-Ralph-Moonen.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21** — Ralph Moonen
 * **[RF Exploitation: IoT/OT Hacking with SDR](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D2%20-%20Demystifying%20IoT:OT%20Hacks%20With%20SDR%20-%20Himanshu%20Mehta%20&%20Harshit%20Agrawal.pdf)** — HITB 2019
 * **[Bye-Bye IMSI Catchers: Security Enhancements in 5G](https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20Bye%20Bye%20IMSI%20Catchers%20-%20Security%20Enhancements%20in%205g%20-%20Lin%20Huang.pdf)** — HITB 2018
 * **[Side Channel Attacks in 4G and 5G](https://i.blackhat.com/eu-19/Thursday/eu-19-Hussain-Side-Channel-Attacks-In-4G-And-5G-Cellular-Networks.pdf)** — Black Hat Europe 2019
@@ -449,7 +449,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 | srsENB          | 4G/5G Base Station Software | [GitHub](https://github.com/srsran/srsRAN/tree/master/srsenb) ⭐ 4,045 \| 🐛 347 \| 🌐 C++ \| 📅 2026-01-26 |
 | Open5GS         | 5G Core Network             | [GitHub](https://github.com/open5gs)                                                                       |
 | sysmo-usim-tool | SIM Programming             | [Project Page](https://osmocom.org/projects/cellular-infrastructure/wiki/SysmoISIM-SJA2)                   |
-| pysim           | SIM Analysis Tool           | [GitHub](https://github.com/osmocom/pysim) ⭐ 574 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-10                     |
+| pysim           | SIM Analysis Tool           | [GitHub](https://github.com/osmocom/pysim) ⭐ 576 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-19                     |
 | CoIMS           | VoLTE Testing               | [Play Store](https://play.google.com/store/apps/details?id=com.sherle.coims)                               |
 | Docker Open5GS  | Containerized Core          | [Tutorial](https://open5gs.org/open5gs/docs/tutorial/03-VoLTE-dockerized/)                                 |
 
@@ -459,7 +459,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### Protection from Stingrays and IMSI Catchers
 
-* **[CellGuard](https://github.com/seemoo-lab/CellGuard) ⭐ 415 | 🐛 2 | 🌐 Swift | 📅 2026-05-26** — SEEMOO Lab, 2024
+* **[CellGuard](https://github.com/seemoo-lab/CellGuard) ⭐ 415 | 🐛 3 | 🌐 Swift | 📅 2026-05-26** — SEEMOO Lab, 2024
 
   iOS app that detects rogue base stations by analyzing baseband packets in real-time. Integrates with the Apple Cell Location Database for anomaly detection. [Website](https://cellguard.seemoo.tu-darmstadt.de/) — [TestFlight Beta](https://testflight.apple.com/join/HrsaoHM3)
 
@@ -468,7 +468,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 * **[SeaGlass: City-Wide IMSI-Catcher Detection](https://seaglass.cs.washington.edu/)** — UW
 * **[SeaGlass Research Paper](https://seaglass-web.s3.amazonaws.com/SeaGlass___PETS_2017.pdf)** — PETS 2017
 * **[Evaluating IMSI Catcher Detectors](http://www.cs.ox.ac.uk/files/9192/paper-final-woot-imsi.pdf)** — Oxford
-* **[IMSI-Catcher Detector (Android)](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) ⭐ 5,390 | 🐛 183 | 🌐 Java | 📅 2026-07-12**
+* **[IMSI-Catcher Detector (Android)](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) ⭐ 5,392 | 🐛 183 | 🌐 Java | 📅 2026-07-12**
 
 ### Security Advisories
 
@@ -545,7 +545,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### SS7 Attack Research
 
-* **[Bypassing GSMA SS7 Recommendations](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/ss7/Bypassing-GSMA-SS7-Kirill-Puzankov.pdf) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21** — Kirill Puzankov
+* **[Bypassing GSMA SS7 Recommendations](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/ss7/Bypassing-GSMA-SS7-Kirill-Puzankov.pdf) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21** — Kirill Puzankov
 * **[Attacking SS7 Networks](http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf)** — HES 2010
 * **[SS7: Locate. Track. Manipulate.](https://media.ccc.de/v/31c3_-_6249_-_en_-_saal_1_-_201412271715_-_ss7_locate_track_manipulate_-_tobias_engel)** — 31C3 2014, Tobias Engel; live demonstration of cross-network subscriber tracking
 * **[SS7 Map](https://ss7map.p1sec.com/)** — P1 Security; map of SS7 exposure across global carriers
@@ -593,7 +593,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 * **[SANS Mobile Security](https://www.sans.org/)** — Professional mobile security courses
 * **[Offensive Security Mobile Testing](https://www.offensive-security.com/)** — Advanced mobile penetration testing
-* **[OpenAirInterface Lab Setup](https://github.com/OpenAirInterface/openairinterface5g) ⭐ 208 | 🐛 3 | 🌐 C | 📅 2026-08-14** — Open-source 5G lab environment
+* **[OpenAirInterface Lab Setup](https://github.com/OpenAirInterface/openairinterface5g) ⭐ 209 | 🐛 3 | 🌐 C | 📅 2026-08-14** — Open-source 5G lab environment
 * **[GNU Radio / SDR University Courses](https://www.gnuradio.org/)** — SDR educational materials
 
 ***
@@ -692,4 +692,4 @@ This repository is for educational and research purposes only. Users are respons
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
