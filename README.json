@@ -60,7 +60,7 @@
                 "last_commit": "2026-07-12T17:01:25Z",
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5394
+                "stars": 5396
               }
             },
             {
@@ -75,7 +75,7 @@
                 "last_commit": "2024-10-23T16:48:32Z",
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2216
+                "stars": 2217
               }
             },
             {
@@ -105,7 +105,7 @@
                 "last_commit": "2019-02-26T07:05:38Z",
                 "owner": "Evrytania",
                 "repo": "LTE-Cell-Scanner",
-                "stars": 667
+                "stars": 668
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2019-12-17T16:51:23Z",
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 386
+                "stars": 387
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2023-10-13T12:50:06Z",
                 "owner": "falkenber9",
                 "repo": "falcon",
-                "stars": 359
+                "stars": 360
               }
             },
             {
@@ -281,7 +281,7 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 3987
+                "stars": 3989
               }
             },
             {
@@ -296,7 +296,7 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 3987
+                "stars": 3989
               }
             },
             {
@@ -311,7 +311,7 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 3987
+                "stars": 3989
               }
             },
             {
@@ -326,7 +326,7 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 3987
+                "stars": 3989
               }
             },
             {
@@ -341,7 +341,7 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 3987
+                "stars": 3989
               }
             }
           ],
@@ -363,7 +363,7 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 3987
+                "stars": 3989
               }
             },
             {
@@ -378,7 +378,7 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 3987
+                "stars": 3989
               }
             },
             {
@@ -393,7 +393,7 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 3987
+                "stars": 3989
               }
             },
             {
@@ -408,7 +408,7 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 3987
+                "stars": 3989
               }
             },
             {
@@ -423,7 +423,7 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 3987
+                "stars": 3989
               }
             }
           ],
@@ -451,7 +451,7 @@
                 "last_commit": "2019-12-17T16:51:23Z",
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 386
+                "stars": 387
               }
             }
           ],
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:34:36.271Z",
+    "last_updated": "2026-08-22T02:19:10.340Z",
     "original_repository": "W00t3k/Awesome-Cellular-Hacking",
     "original_repository_id": 187701900,
     "original_repository_sha": "86dbb085fd3ae5c2612a897e90d6d9252e8f40bf",
