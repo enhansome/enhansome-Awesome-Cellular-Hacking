@@ -305,11 +305,11 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### 5G Security Research
 
-* **[ENISA 5G Threat Landscape](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/ENISA-5G-threat-landscape.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21**
-* **[5GReasoner Analysis Framework](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/5GReasoner.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21**
-* **[5G NR Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/5gjam.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21**
-* **[Insecure Connection Bootstrapping in Cellular Networks](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/wisec19-preprint.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21**
-* **[Protecting 4G and 5G Cellular Paging Protocols](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/popets-2020-0008.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21**
+* **[ENISA 5G Threat Landscape](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/ENISA-5G-threat-landscape.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21**
+* **[5GReasoner Analysis Framework](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/5GReasoner.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21**
+* **[5G NR Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/5gjam.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21**
+* **[Insecure Connection Bootstrapping in Cellular Networks](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/wisec19-preprint.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21**
+* **[Protecting 4G and 5G Cellular Paging Protocols](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/5g/popets-2020-0008.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21**
 * **[Privacy Attacks on 4G/5G Paging Protocols](https://assets.documentcloud.org/documents/5749002/4G-5G-paper-at-NDSS-2019.pdf)** — NDSS 2019
 * **[European 5G Security in the Wild](https://arxiv.org/pdf/2305.08635.pdf)** — 2023
 * **[5G Threat Modeling Framework](https://arxiv.org/pdf/2005.05110v1.pdf)**
@@ -319,11 +319,11 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### LTE/4G Security Research
 
-* **[Breaking LTE on Layer Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/breaking-lte-layer-two.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21**
-* **[LTE/LTE-A Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-jamming-magazine.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21**
-* **[LTE Protocol Exploits](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-security-TakeDownCon.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21**
-* **[Practical Attacks Against Privacy and Availability](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/Prac-4G-Attacks.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21**
-* **[LTE Security Assessment](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-open-source-HackerHalted.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21**
+* **[Breaking LTE on Layer Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/breaking-lte-layer-two.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21**
+* **[LTE/LTE-A Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-jamming-magazine.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21**
+* **[LTE Protocol Exploits](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-security-TakeDownCon.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21**
+* **[Practical Attacks Against Privacy and Availability](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/Prac-4G-Attacks.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21**
+* **[LTE Security Assessment](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/lte/LTE-open-source-HackerHalted.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21**
 * **[LTRACK: Stealthy Mobile Phone Tracking](https://www.usenix.org/system/files/sec22summer_kotuliak.pdf)** — USENIX Security 2022
 * **[Detecting Fake 4G Base Stations in Real Time](https://i.blackhat.com/USA-20/Wednesday/us-20-Quintin-Detecting-Fake-4G-Base-Stations-In-Real-Time.pdf)** — Black Hat 2020
 * **[BaseSAFE: Baseband Fuzzing](https://arxiv.org/pdf/2005.07797.pdf)**
@@ -383,7 +383,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### Additional Conference Resources
 
-* **[VoLTE Phreaking](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/talks/HAXPO-VoLTE-Phreaking-Ralph-Moonen.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21** — Ralph Moonen
+* **[VoLTE Phreaking](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/talks/HAXPO-VoLTE-Phreaking-Ralph-Moonen.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21** — Ralph Moonen
 * **[NSA PLAYSET GSM](https://www.defcon.org/images/defcon-22/dc-22-presentations/Pierce-Loki/DEFCON-22-Pierce-Loki-NSA-PLAYSET-GSM.pdf)** — DEF CON 22
 * **[RF Exploitation: IoT/OT Hacking with SDR](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D2%20-%20Demystifying%20IoT:OT%20Hacks%20With%20SDR%20-%20Himanshu%20Mehta%20&%20Harshit%20Agrawal.pdf)** — HITB 2019
 * **[Bye-Bye IMSI Catchers: Security Enhancements in 5G](https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20Bye%20Bye%20IMSI%20Catchers%20-%20Security%20Enhancements%20in%205g%20-%20Lin%20Huang.pdf)** — HITB 2018
@@ -545,7 +545,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### SS7 Attack Research
 
-* **[Bypassing GSMA SS7 Recommendations](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/ss7/Bypassing-GSMA-SS7-Kirill-Puzankov.pdf) ⭐ 3,996 | 🐛 2 | 📅 2026-03-21** — Kirill Puzankov
+* **[Bypassing GSMA SS7 Recommendations](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/papers/ss7/Bypassing-GSMA-SS7-Kirill-Puzankov.pdf) ⭐ 3,997 | 🐛 2 | 📅 2026-03-21** — Kirill Puzankov
 * **[Attacking SS7 Networks](http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf)** — HES 2010
 * **[SS7: Locate. Track. Manipulate.](https://media.ccc.de/v/31c3_-_6249_-_en_-_saal_1_-_201412271715_-_ss7_locate_track_manipulate_-_tobias_engel)** — 31C3 2014, Tobias Engel; live demonstration of cross-network subscriber tracking
 * **[SS7 Map](https://ss7map.p1sec.com/)** — P1 Security; map of SS7 exposure across global carriers
