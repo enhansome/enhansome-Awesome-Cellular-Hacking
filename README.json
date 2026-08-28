@@ -18,7 +18,8 @@
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -61,7 +63,8 @@
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -76,7 +79,8 @@
                 "owner": "srsran",
                 "repo": "srsRAN_Project",
                 "stars": 1095
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -91,7 +95,8 @@
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
                 "stars": 4054
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "free5gc",
                 "repo": "free5gc",
                 "stars": 2351
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -128,7 +134,8 @@
                 "owner": "Nuand",
                 "repo": "bladeRF",
                 "stars": 1366
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -149,8 +156,9 @@
                 "last_commit": "2026-07-12T17:01:25Z",
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5403
-              }
+                "stars": 5404
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -164,8 +172,9 @@
                 "last_commit": "2024-10-23T16:48:32Z",
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2219
-              }
+                "stars": 2220
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -180,7 +189,8 @@
                 "owner": "ptrkrysik",
                 "repo": "gr-gsm",
                 "stars": 1494
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -195,7 +205,8 @@
                 "owner": "Evrytania",
                 "repo": "LTE-Cell-Scanner",
                 "stars": 670
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -209,8 +220,9 @@
                 "last_commit": "2026-08-26T21:48:57Z",
                 "owner": "fgsect",
                 "repo": "scat",
-                "stars": 526
-              }
+                "stars": 527
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
                 "stars": 388
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "falkenber9",
                 "repo": "falcon",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "scateu",
                 "repo": "kalibrate-hackrf",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "Synacktiv-contrib",
                 "repo": "Modmobmap",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "Synacktiv-contrib",
                 "repo": "Modmobjam",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -315,7 +333,8 @@
                 "owner": "IntelMQ",
                 "repo": "intelmq",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -343,7 +362,8 @@
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -370,8 +390,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -385,8 +406,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -400,8 +422,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -415,8 +438,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -430,8 +454,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -452,8 +477,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -467,8 +493,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -482,8 +509,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -497,8 +525,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -512,8 +541,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -540,8 +570,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -569,7 +600,8 @@
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -597,7 +629,8 @@
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
                 "stars": 4054
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
@@ -612,7 +645,8 @@
                 "owner": "osmocom",
                 "repo": "pysim",
                 "stars": 576
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -636,11 +670,12 @@
                 "archived": false,
                 "id": 815166789,
                 "language": "Swift",
-                "last_commit": "2026-08-19T15:35:12Z",
+                "last_commit": "2026-08-27T11:38:30Z",
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
-                "stars": 417
-              }
+                "stars": 426
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -661,8 +696,9 @@
                 "last_commit": "2026-07-12T17:01:25Z",
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5403
-              }
+                "stars": 5404
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -689,8 +725,9 @@
                 "last_commit": "2026-03-21T11:14:33Z",
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4001
-              }
+                "stars": 4002
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -712,7 +749,8 @@
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
                 "stars": 388
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -738,7 +776,8 @@
             "owner": "openairinterface",
             "repo": "openairinterface5g",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T12:40:33.113Z"
         }
       ],
       "title": "Training and Education"
@@ -761,7 +800,8 @@
                 "owner": "cn0xroot",
                 "repo": "RFSec-ToolKit",
                 "stars": 1721
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -789,7 +829,8 @@
                 "owner": "srsran",
                 "repo": "srsRAN_Project",
                 "stars": 1095
-              }
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
@@ -801,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:08.339Z",
+    "last_updated": "2026-08-28T12:40:33.113Z",
     "original_repository_info": {
       "archived": false,
       "id": 187701900,
@@ -809,7 +850,7 @@
       "last_commit": "2026-03-21T11:14:33Z",
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4001
+      "stars": 4002
     },
     "original_repository_sha": "86dbb085fd3ae5c2612a897e90d6d9252e8f40bf",
     "enhanced_repository": "enhansome/enhansome-Awesome-Cellular-Hacking",
