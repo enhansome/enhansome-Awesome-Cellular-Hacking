@@ -452,7 +452,7 @@
                 "open_issues": 96,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5698,
+                "stars": 5699,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -565,7 +565,7 @@
                 "open_issues": 33,
                 "owner": "Evrytania",
                 "repo": "LTE-Cell-Scanner",
-                "stars": 670,
+                "stars": 671,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -630,7 +630,7 @@
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
-                "stars": 427,
+                "stars": 426,
                 "topics": [
                   "baseband",
                   "ios"
@@ -1567,7 +1567,7 @@
                 "open_issues": 96,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5698,
+                "stars": 5699,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1588,7 +1588,7 @@
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
-                "stars": 427,
+                "stars": 426,
                 "topics": [
                   "baseband",
                   "ios"
@@ -1990,7 +1990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:20:06.855Z",
+    "last_updated": "2026-08-29T07:48:46.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
