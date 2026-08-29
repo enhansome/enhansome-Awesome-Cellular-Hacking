@@ -7,17 +7,167 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SNI5GECT: Sniffing and Injecting 5G Traffic Without Rogue Base Stations",
+              "description": "Singapore University of Technology and Design, USENIX Security 2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "5G NR Attacks against Qualcomm and Mediatek smartphones. Fuzzer included⚡",
+                "homepage": "https://5ghoul.com",
+                "id": 727279624,
+                "language": "C++",
+                "license": "GPL-2.0",
+                "last_commit": "2026-03-11T01:04:19Z",
+                "open_issues": 17,
+                "owner": "asset-group",
+                "repo": "5ghoul-5g-nr-attacks",
+                "stars": 692,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BaseBridge: Over-the-Air and Emulation Testing for Cellular Baseband Firmware",
+              "description": "IEEE S&P 2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 968517825,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-05-12T07:32:26Z",
+                "open_issues": 0,
+                "owner": "FirmWire",
+                "repo": "BaseBridge",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "New Research (2025-2026)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "5GBaseChecker Tool Release",
+              "description": "Penn State University, Black Hat 2024",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 766347854,
+                "language": "C",
+                "license": "AGPL-3.0",
+                "last_commit": "2025-01-22T17:04:13Z",
+                "open_issues": 3,
+                "owner": "SyNSec-den",
+                "repo": "5GBaseChecker",
+                "stars": 116,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Hermes: Unlocking Security Analysis of Cellular Network Protocols",
+              "description": "USENIX Security 2024",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 700852048,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-10-24T03:04:47Z",
+                "open_issues": 3,
+                "owner": "SyNSec-den",
+                "repo": "hermes-spec-to-fsm",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CellularLint: Identifying Inconsistent Behavior in Cellular Network Specifications",
+              "description": "USENIX Security 2024",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The repository contains the code for the paper \"CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications\", published at the 33rd USENIX Security Symposium (2024).",
+                "homepage": "https://cellularlint.github.io",
+                "id": 759014331,
+                "language": "Jupyter Notebook",
+                "license": "CC0-1.0",
+                "last_commit": "2024-10-18T19:31:29Z",
+                "open_issues": 0,
+                "owner": "SysNetS",
+                "repo": "cellularlint",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "New Research (2024)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "5GHOUL",
+              "description": "5G NR fuzzing and attack framework targeting Qualcomm/MediaTek",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "5G NR Attacks against Qualcomm and Mediatek smartphones. Fuzzer included⚡",
+                "homepage": "https://5ghoul.com",
+                "id": 727279624,
+                "language": "C++",
+                "license": "GPL-2.0",
+                "last_commit": "2026-03-11T01:04:19Z",
+                "open_issues": 17,
+                "owner": "asset-group",
+                "repo": "5ghoul-5g-nr-attacks",
+                "stars": 692,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
               "title": "OpenBTS 2024 Reloaded",
               "description": "Updated for modern UHD drivers and Ubuntu 22.04/24.04",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GSM+GPRS Radio Access Network Node reloaded for 2024-2025 for newest UHD drivers and supporting Ubuntu 22.04 & 24.04",
+                "homepage": null,
                 "id": 585625191,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-29T23:58:26Z",
+                "open_issues": 0,
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "gprs",
+                  "gsm",
+                  "openbts",
+                  "software-defined-radio"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -28,14 +178,40 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 766347854,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-01-22T17:04:13Z",
+                "open_issues": 3,
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ransack",
+              "description": "Multi-RAT cellular survey/recon platform; unifies LTE/5G NR/GSM/NB-IoT observations from SDRs, Qualcomm phones, and Rayhunter into SQLite with REST API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ransack -- multi-RAT cellular survey and recon platform (LTE/4G, 5G NR, 2G/GSM, NB-IoT, Qualcomm modem) into one SQLite DB with a /v1 REST/SSE API and an MCP surface. Authorized security research, RX/passive.",
+                "homepage": null,
+                "id": 1327318143,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-26T21:29:48Z",
+                "open_issues": 0,
+                "owner": "alphafox02",
+                "repo": "ransack",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
             }
           ],
           "description": null,
@@ -43,7 +219,7 @@
           "title": "Base Station Software and Tools (Updated)"
         }
       ],
-      "title": "Recent Updates (2024-2025)"
+      "title": "Recent Updates (2024-2026)"
     },
     {
       "description": null,
@@ -57,12 +233,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GSM+GPRS Radio Access Network Node reloaded for 2024-2025 for newest UHD drivers and supporting Ubuntu 22.04 & 24.04",
+                "homepage": null,
                 "id": 585625191,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-29T23:58:26Z",
+                "open_issues": 0,
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "gprs",
+                  "gsm",
+                  "openbts",
+                  "software-defined-radio"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -73,12 +259,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Open source O-RAN 5G CU/DU solution from Software Radio Systems (SRS) https://docs.srsran.com/projects/project",
+                "homepage": "https://www.srsran.com",
                 "id": 605068341,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-06-01T07:10:58Z",
+                "open_issues": 179,
                 "owner": "srsran",
                 "repo": "srsRAN_Project",
-                "stars": 1095
+                "stars": 1095,
+                "topics": [
+                  "5g",
+                  "sdr",
+                  "srs",
+                  "srsran",
+                  "wireless"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -89,12 +286,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g",
+                "homepage": "https://www.srsran.com",
                 "id": 14983921,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-01-26T08:20:21Z",
+                "open_issues": 349,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4054
+                "stars": 4056,
+                "topics": [
+                  "lte",
+                  "sdr",
+                  "srs",
+                  "srsenb",
+                  "srsepc",
+                  "srslte",
+                  "srsran",
+                  "srsue",
+                  "wireless"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -105,14 +317,68 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source 5G core network based on 3GPP R17",
+                "homepage": "https://free5gc.org",
                 "id": 237391530,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T05:06:07Z",
+                "open_issues": 64,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2351
+                "stars": 2351,
+                "topics": [
+                  "3gpp",
+                  "5g",
+                  "5gc",
+                  "amf",
+                  "ausf",
+                  "core-network",
+                  "free5gc",
+                  "n3iwf",
+                  "nrf",
+                  "nssf",
+                  "pcf",
+                  "release15",
+                  "smf",
+                  "udm",
+                  "udr",
+                  "upf"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Open5GS",
+              "description": "Open-source 5G core and EPC implementation GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)",
+                "homepage": "https://open5gs.org",
+                "id": 80611216,
+                "language": "C",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-27T22:36:20Z",
+                "open_issues": 289,
+                "owner": "open5gs",
+                "repo": "open5gs",
+                "stars": 2701,
+                "topics": [
+                  "3gpp",
+                  "4g",
+                  "5g",
+                  "5gc",
+                  "core",
+                  "epc",
+                  "lte",
+                  "network",
+                  "nr",
+                  "open5gs"
+                ]
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
             }
           ],
           "description": null,
@@ -128,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bladeRF USB 3.0 Superspeed Software Defined Radio Source Code",
+                "homepage": "http://nuand.com",
                 "id": 8283085,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T12:53:08Z",
+                "open_issues": 151,
                 "owner": "Nuand",
                 "repo": "bladeRF",
-                "stars": 1366
+                "stars": 1366,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             }
@@ -146,195 +417,474 @@
           "children": [
             {
               "node_type": "item",
-              "title": "IMSI-Catcher Detector",
-              "description": "Android app for detecting IMSI catchers",
+              "title": "Ransack",
+              "description": "Multi-RAT cellular survey platform for DragonOS; merges LTE/5G NR/GSM/NB-IoT into unified DB; orchestrates srsRAN, LTESniffer, FALCON, Rayhunter GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 14640193,
-                "language": "Java",
-                "last_commit": "2026-07-12T17:01:25Z",
-                "owner": "CellularPrivacy",
-                "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5404
+                "description": "ransack -- multi-RAT cellular survey and recon platform (LTE/4G, 5G NR, 2G/GSM, NB-IoT, Qualcomm modem) into one SQLite DB with a /v1 REST/SSE API and an MCP surface. Authorized security research, RX/passive.",
+                "homepage": null,
+                "id": 1327318143,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-26T21:29:48Z",
+                "open_issues": 0,
+                "owner": "alphafox02",
+                "repo": "ransack",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Rayhunter",
+              "description": "EFF's IMSI catcher detector for Orbic hotspots; detects 2G downgrades and suspicious requests GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot ",
+                "homepage": "https://efforg.github.io/rayhunter/",
+                "id": 716335769,
+                "language": "Rust",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T22:50:55Z",
+                "open_issues": 96,
+                "owner": "EFForg",
+                "repo": "rayhunter",
+                "stars": 5698,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "5GBaseChecker",
+              "description": "Automated 5G baseband vulnerability detection (Penn State) GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 766347854,
+                "language": "C",
+                "license": "AGPL-3.0",
+                "last_commit": "2025-01-22T17:04:13Z",
+                "open_issues": 3,
+                "owner": "SyNSec-den",
+                "repo": "5GBaseChecker",
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
-              "title": "LTE Sniffer",
-              "description": "Open-source LTE downlink/uplink eavesdropper",
+              "title": "5GHOUL",
+              "description": "5G NR attacks against Qualcomm/MediaTek with stateful fuzzer GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 626771649,
+                "description": "5G NR Attacks against Qualcomm and Mediatek smartphones. Fuzzer included⚡",
+                "homepage": "https://5ghoul.com",
+                "id": 727279624,
                 "language": "C++",
-                "last_commit": "2024-10-23T16:48:32Z",
-                "owner": "SysSec-KAIST",
-                "repo": "LTESniffer",
-                "stars": 2220
+                "license": "GPL-2.0",
+                "last_commit": "2026-03-11T01:04:19Z",
+                "open_issues": 17,
+                "owner": "asset-group",
+                "repo": "5ghoul-5g-nr-attacks",
+                "stars": 692,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FirmWire",
+              "description": "Full-system baseband firmware emulation for fuzzing/debugging GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares",
+                "homepage": "https://firmwire.github.io/docs/",
+                "id": 447002181,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-20T11:02:19Z",
+                "open_issues": 17,
+                "owner": "FirmWire",
+                "repo": "FirmWire",
+                "stars": 878,
+                "topics": [
+                  "baseband",
+                  "emulation",
+                  "fuzzing",
+                  "introspection",
+                  "mediatek",
+                  "qemu",
+                  "samsung"
+                ]
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BaseBridge",
+              "description": "Bridges OTA and emulation testing for baseband firmware GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 968517825,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-05-12T07:32:26Z",
+                "open_issues": 0,
+                "owner": "FirmWire",
+                "repo": "BaseBridge",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LTE-Cell-Scanner",
+              "description": "LTE cell detection and analysis GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LTE SDR cell scanner optimized to work with very low performance RF front ends (8bit A/D, 20dB noise figure)",
+                "homepage": null,
+                "id": 5484443,
+                "language": "C++",
+                "license": "AGPL-3.0",
+                "last_commit": "2019-02-26T07:05:38Z",
+                "open_issues": 33,
+                "owner": "Evrytania",
+                "repo": "LTE-Cell-Scanner",
+                "stars": 670,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
               "title": "gr-gsm",
-              "description": "GSM analysis with GNU Radio",
+              "description": "GSM analysis with GNU Radio GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gnuradio blocks and tools for receiving GSM transmissions",
+                "homepage": null,
                 "id": 17038637,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-10T11:49:09Z",
+                "open_issues": 163,
                 "owner": "ptrkrysik",
                 "repo": "gr-gsm",
-                "stars": 1494
+                "stars": 1494,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
-              "title": "LTE-Cell-Scanner",
-              "description": "LTE cell detection and analysis",
+              "title": "IMSI-Catcher Detector",
+              "description": "Android app for detecting IMSI catchers GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 5484443,
-                "language": "C++",
-                "last_commit": "2019-02-26T07:05:38Z",
-                "owner": "Evrytania",
-                "repo": "LTE-Cell-Scanner",
-                "stars": 670
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SCAT",
-              "description": "Signaling Collection and Analysis Tool; captures diagnostic logs from Qualcomm and Samsung basebands",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 139310283,
-                "language": "Python",
-                "last_commit": "2026-08-26T21:48:57Z",
-                "owner": "fgsect",
-                "repo": "scat",
-                "stars": 527
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SigPloit",
-              "description": "SS7/Diameter/GTP/SIP signaling security testing framework",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 86656187,
+                "description": "AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!",
+                "homepage": "https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/",
+                "id": 14640193,
                 "language": "Java",
-                "last_commit": "2019-12-17T16:51:23Z",
-                "owner": "SigPloiter",
-                "repo": "SigPloit",
-                "stars": 388
+                "license": "GPL-3.0",
+                "last_commit": "2026-07-12T17:01:25Z",
+                "open_issues": 183,
+                "owner": "CellularPrivacy",
+                "repo": "Android-IMSI-Catcher-Detector",
+                "stars": 5406,
+                "topics": [
+                  "android"
+                ]
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CellGuard",
+              "description": "iOS app detecting rogue base stations via baseband analysis GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CellGuard is a research project that analyzes how cellular networks are operated and possibly surveilled",
+                "homepage": "https://cellguard.seemoo.de",
+                "id": 815166789,
+                "language": "Swift",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-27T11:38:30Z",
+                "open_issues": 1,
+                "owner": "seemoo-lab",
+                "repo": "CellGuard",
+                "stars": 427,
+                "topics": [
+                  "baseband",
+                  "ios"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
               "title": "FALCON LTE",
-              "description": "Fast analysis of LTE control channels in real-time",
+              "description": "Fast analysis of LTE control channels in real-time GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FALCON - Fast Analysis of LTE Control channels",
+                "homepage": null,
                 "id": 184469512,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-10-13T12:50:06Z",
+                "open_issues": 16,
                 "owner": "falkenber9",
                 "repo": "falcon",
-                "stars": 360
+                "stars": 361,
+                "topics": [
+                  "lte",
+                  "sdr",
+                  "srslte",
+                  "usrp",
+                  "wireless"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
               "title": "Kalibrate",
-              "description": "GSM base station scanner and frequency calibration",
+              "description": "GSM base station scanner and frequency calibration GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "kalibrate for hackrf",
+                "homepage": null,
                 "id": 19214902,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2022-03-21T03:06:14Z",
+                "open_issues": 18,
                 "owner": "scateu",
                 "repo": "kalibrate-hackrf",
-                "stars": 306
+                "stars": 306,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
-              "title": "5GBaseChecker",
-              "description": "Automated 5G baseband vulnerability detection (Penn State, 2024)",
+              "title": "LTE Sniffer",
+              "description": "Open-source LTE downlink/uplink eavesdropper GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 766347854,
-                "language": "C",
-                "last_commit": "2025-01-22T17:04:13Z",
-                "owner": "SyNSec-den",
-                "repo": "5GBaseChecker",
-                "stars": 116
+                "description": " An Open-source LTE Downlink/Uplink Eavesdropper",
+                "homepage": null,
+                "id": 626771649,
+                "language": "C++",
+                "license": "AGPL-3.0",
+                "last_commit": "2024-10-23T16:48:32Z",
+                "open_issues": 25,
+                "owner": "SysSec-KAIST",
+                "repo": "LTESniffer",
+                "stars": 2220,
+                "topics": [
+                  "cellular",
+                  "lte",
+                  "sdr",
+                  "sniffer",
+                  "wireless"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
               "title": "Modmobmap",
-              "description": "Mobile network mapping",
+              "description": "Mobile network mapping GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Map 2G/3G/4G and more cellular networks in real live with a simple smart phone, pretty much like osmocomBB monitoring feature.",
+                "homepage": null,
                 "id": 137120129,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-24T14:06:59Z",
+                "open_issues": 4,
                 "owner": "Synacktiv-contrib",
                 "repo": "Modmobmap",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
               "title": "Modmobjam",
-              "description": "Mobile jamming research tool",
+              "description": "Mobile jamming research tool GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A smart jamming proof of concept for mobile equipments that could be powered with Modmobmap tool",
+                "homepage": null,
                 "id": 142592751,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-05-30T20:03:37Z",
+                "open_issues": 3,
                 "owner": "Synacktiv-contrib",
                 "repo": "Modmobjam",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
             {
               "node_type": "item",
-              "title": "Diameter EAP Tool (DET)",
-              "description": "Diameter protocol fuzzing and testing",
+              "title": "SigPloit",
+              "description": "SS7/Diameter/GTP/SIP signaling security testing framework GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 173867229,
-                "language": null,
-                "last_commit": "2019-03-05T03:39:13Z",
-                "owner": "IntelMQ",
-                "repo": "intelmq",
-                "stars": 0
+                "description": "SigPloit: Telecom Signaling Exploitation Framework - SS7, GTP, Diameter & SIP",
+                "homepage": null,
+                "id": 86656187,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2019-12-17T16:51:23Z",
+                "open_issues": 59,
+                "owner": "SigPloiter",
+                "repo": "SigPloit",
+                "stars": 388,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SCAT",
+              "description": "Signaling Collection and Analysis Tool for Qualcomm/Samsung GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SCAT: Signaling Collection and Analysis Tool",
+                "homepage": null,
+                "id": 139310283,
+                "language": "Python",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-26T21:48:57Z",
+                "open_issues": 16,
+                "owner": "fgsect",
+                "repo": "scat",
+                "stars": 527,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Hermes",
+              "description": "FSM synthesis from natural language specifications GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 700852048,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-10-24T03:04:47Z",
+                "open_issues": 3,
+                "owner": "SyNSec-den",
+                "repo": "hermes-spec-to-fsm",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CellularLint",
+              "description": "Inconsistency detection in 4G/5G standards GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The repository contains the code for the paper \"CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications\", published at the 33rd USENIX Security Symposium (2024).",
+                "homepage": "https://cellularlint.github.io",
+                "id": 759014331,
+                "language": "Jupyter Notebook",
+                "license": "CC0-1.0",
+                "last_commit": "2024-10-18T19:31:29Z",
+                "open_issues": 0,
+                "owner": "SysNetS",
+                "repo": "cellularlint",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BASECOMP",
+              "description": "Comparative analysis for baseband integrity protection GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "BaseComp: A Comparative Analysis for Integrity Protection in Cellular Baseband Software",
+                "homepage": null,
+                "id": 651061791,
+                "language": "C",
+                "license": null,
+                "last_commit": "2023-10-10T06:48:27Z",
+                "open_issues": 0,
+                "owner": "kaist-hacking",
+                "repo": "BaseComp",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BaseTrace",
+              "description": "Framework for iPhone baseband interface research GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A framework for researching the interface between the iPhone's application processor and its baseband",
+                "homepage": null,
+                "id": 864498620,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-05-19T13:27:45Z",
+                "open_issues": 0,
+                "owner": "seemoo-lab",
+                "repo": "BaseTrace",
+                "stars": 86,
+                "topics": [
+                  "baseband",
+                  "intel",
+                  "ios",
+                  "qualcomm"
+                ]
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
             }
           ],
           "description": null,
@@ -351,17 +901,121 @@
           "children": [
             {
               "node_type": "item",
+              "title": "FirmWire",
+              "description": "NDSS 2022",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares",
+                "homepage": "https://firmwire.github.io/docs/",
+                "id": 447002181,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-20T11:02:19Z",
+                "open_issues": 17,
+                "owner": "FirmWire",
+                "repo": "FirmWire",
+                "stars": 878,
+                "topics": [
+                  "baseband",
+                  "emulation",
+                  "fuzzing",
+                  "introspection",
+                  "mediatek",
+                  "qemu",
+                  "samsung"
+                ]
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SNI5GECT: Practical 5G Traffic Injection",
+              "description": "USENIX Security 2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "5G NR Attacks against Qualcomm and Mediatek smartphones. Fuzzer included⚡",
+                "homepage": "https://5ghoul.com",
+                "id": 727279624,
+                "language": "C++",
+                "license": "GPL-2.0",
+                "last_commit": "2026-03-11T01:04:19Z",
+                "open_issues": 17,
+                "owner": "asset-group",
+                "repo": "5ghoul-5g-nr-attacks",
+                "stars": 692,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BaseBridge",
+              "description": "IEEE S&P 2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 968517825,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-05-12T07:32:26Z",
+                "open_issues": 0,
+                "owner": "FirmWire",
+                "repo": "BaseBridge",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Modern Baseband Fuzzing (2024-2026)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "5GHOUL",
+              "description": "Stateful 5G NR fuzzer with OTA attack capabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "5G NR Attacks against Qualcomm and Mediatek smartphones. Fuzzer included⚡",
+                "homepage": "https://5ghoul.com",
+                "id": 727279624,
+                "language": "C++",
+                "license": "GPL-2.0",
+                "last_commit": "2026-03-11T01:04:19Z",
+                "open_issues": 17,
+                "owner": "asset-group",
+                "repo": "5ghoul-5g-nr-attacks",
+                "stars": 692,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
               "title": "5GBaseChecker",
               "description": "Automated 5G baseband vulnerability detection",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 766347854,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-01-22T17:04:13Z",
+                "open_issues": 3,
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             }
@@ -385,12 +1039,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -401,12 +1069,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -417,12 +1099,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -433,12 +1129,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -449,12 +1159,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             }
@@ -472,12 +1196,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -488,12 +1226,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -504,12 +1256,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -520,12 +1286,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -536,12 +1316,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             }
@@ -560,56 +1354,125 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Uncovering 'NASty' 5G Baseband Vulnerabilities through Dependency-Aware Fuzzing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Black Hat USA 2025 Sessions With Public PDF",
+                "homepage": null,
+                "id": 1043637119,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-08-24T09:52:43Z",
+                "open_issues": 0,
+                "owner": "sixteen250",
+                "repo": "BlackHat_USA2025_Sessions",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Black Hat USA 2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BaseBridge: Bridging Over-the-Air and Emulation Testing for Cellular Baseband Firmware",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 968517825,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-05-12T07:32:26Z",
+                "open_issues": 0,
+                "owner": "FirmWire",
+                "repo": "BaseBridge",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IEEE S&P 2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BASECOMP: A Comparative Analysis for Integrity Protection in Cellular Baseband Software",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "BaseComp: A Comparative Analysis for Integrity Protection in Cellular Baseband Software",
+                "homepage": null,
+                "id": 651061791,
+                "language": "C",
+                "license": null,
+                "last_commit": "2023-10-10T06:48:27Z",
+                "open_issues": 0,
+                "owner": "kaist-hacking",
+                "repo": "BaseComp",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "USENIX Security 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "VoLTE Phreaking",
               "description": "Ralph Moonen",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Additional Conference Resources"
+          "title": "Previous Years"
         }
       ],
       "title": "Conference Talks"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "5GBaseChecker Tool Release",
-              "description": "Penn State University",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 766347854,
-                "language": "C",
-                "last_commit": "2025-01-22T17:04:13Z",
-                "owner": "SyNSec-den",
-                "repo": "5GBaseChecker",
-                "stars": 116
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "2024"
-        }
-      ],
-      "title": "Research Papers"
     },
     {
       "description": null,
@@ -623,12 +1486,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g",
+                "homepage": "https://www.srsran.com",
                 "id": 14983921,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-01-26T08:20:21Z",
+                "open_issues": 349,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4054
+                "stars": 4056,
+                "topics": [
+                  "lte",
+                  "sdr",
+                  "srs",
+                  "srsenb",
+                  "srsepc",
+                  "srslte",
+                  "srsran",
+                  "srsue",
+                  "wireless"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             },
@@ -639,12 +1517,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python tool to explore and program SIMs / USIMs / ISIMs. Mirror of https://gitea.osmocom.org/sim-card/pysim",
+                "homepage": "https://osmocom.org/projects/pysim/wiki",
                 "id": 49863805,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-22T22:29:13Z",
+                "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
-                "stars": 576
+                "stars": 576,
+                "topics": [
+                  "3gpp",
+                  "cellular",
+                  "osmocom",
+                  "sim",
+                  "telecommunications",
+                  "usim-cards"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             }
@@ -663,19 +1553,74 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Rayhunter",
+              "description": "EFF, 2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot ",
+                "homepage": "https://efforg.github.io/rayhunter/",
+                "id": 716335769,
+                "language": "Rust",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T22:50:55Z",
+                "open_issues": 96,
+                "owner": "EFForg",
+                "repo": "rayhunter",
+                "stars": 5698,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
               "title": "CellGuard",
               "description": "SEEMOO Lab, 2024",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CellGuard is a research project that analyzes how cellular networks are operated and possibly surveilled",
+                "homepage": "https://cellguard.seemoo.de",
                 "id": 815166789,
                 "language": "Swift",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T11:38:30Z",
+                "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
-                "stars": 426
+                "stars": 427,
+                "topics": [
+                  "baseband",
+                  "ios"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BaseTrace",
+              "description": "SEEMOO Lab",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A framework for researching the interface between the iPhone's application processor and its baseband",
+                "homepage": null,
+                "id": 864498620,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-05-19T13:27:45Z",
+                "open_issues": 0,
+                "owner": "seemoo-lab",
+                "repo": "BaseTrace",
+                "stars": 86,
+                "topics": [
+                  "baseband",
+                  "intel",
+                  "ios",
+                  "qualcomm"
+                ]
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
             }
           ],
           "description": null,
@@ -691,12 +1636,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!",
+                "homepage": "https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/",
                 "id": 14640193,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-12T17:01:25Z",
+                "open_issues": 183,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5404
+                "stars": 5406,
+                "topics": [
+                  "android"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             }
@@ -720,12 +1672,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
                 "id": 187701900,
                 "language": null,
-                "last_commit": "2026-03-21T11:14:33Z",
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4002
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             }
@@ -743,12 +1709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SigPloit: Telecom Signaling Exploitation Framework - SS7, GTP, Diameter & SIP",
+                "homepage": null,
                 "id": 86656187,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2019-12-17T16:51:23Z",
+                "open_issues": 59,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 388
+                "stars": 388,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             }
@@ -764,20 +1735,117 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "OpenAirInterface Lab Setup",
-          "description": "Open-source 5G lab environment",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 697820060,
-            "language": "C",
-            "last_commit": "2026-08-21T17:15:59Z",
-            "owner": "openairinterface",
-            "repo": "openairinterface5g",
-            "stars": 210
-          },
-          "first_seen": "2026-08-28T12:40:33.113Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenAirInterface Lab Setup",
+              "description": "Open-source 5G lab environment",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is a read-only mirror of https://github.com/duranta-project/openairinterface5g",
+                "homepage": "https://github.com/duranta-project/openairinterface5g",
+                "id": 697820060,
+                "language": "C",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T16:25:44Z",
+                "open_issues": 3,
+                "owner": "openairinterface",
+                "repo": "openairinterface5g",
+                "stars": 211,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Open5GS + srsRAN Lab Setup",
+              "description": "Complete 5G SA config with ZeroMQ UE/RAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open5GS 5GC & srsRAN 5G with ZeroMQ UE / RAN Sample Configuration",
+                "homepage": null,
+                "id": 683449082,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-05-16T09:17:43Z",
+                "open_issues": 4,
+                "owner": "s5uishida",
+                "repo": "open5gs_5gc_srsran_sample_config",
+                "stars": 16,
+                "topics": [
+                  "5g",
+                  "5gc",
+                  "gnodeb",
+                  "mec",
+                  "mobile-edge-computing",
+                  "mobile-network",
+                  "ocudu",
+                  "open5gs",
+                  "ran",
+                  "srsran",
+                  "ue",
+                  "zeromq"
+                ]
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "5G Security Datasets",
+              "description": "PCAP, CSV, and AMF logs for flooding/fuzzing/replay attacks on Open5GS, OAI, Amarisoft",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository provides 5G security datasets, including pcap files, CSV datasets, and AMF log screenshots for flooding, fuzzing, and replay attacks on Control and Data Planes. Generated using Open5GS, OAI, and Amarisoft cores, these datasets support 5G security research in anomaly detection and IDS development.",
+                "homepage": null,
+                "id": 928834851,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-07-31T10:11:17Z",
+                "open_issues": 0,
+                "owner": "DLTeamTUC",
+                "repo": "5GDatasets",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "End-to-End Open5GS-srsRAN Guide",
+              "description": "Deployment guide for Ubuntu 22.04",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "End-to-end deployment guide for Open5GS 5G Core with srsRAN and srsUE",
+                "homepage": null,
+                "id": 1127125173,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-03-18T11:09:15Z",
+                "open_issues": 0,
+                "owner": "ngkore",
+                "repo": "Open5GS-srsRAN",
+                "stars": 4,
+                "topics": [
+                  "5g",
+                  "5gcore",
+                  "gnb",
+                  "open5gs",
+                  "oran",
+                  "ran",
+                  "srsran",
+                  "srsue"
+                ]
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lab Environments"
         }
       ],
       "title": "Training and Education"
@@ -789,17 +1857,126 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Awesome-Cellular-Hacking",
+              "description": "This repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Awesome-Cellular-Hacking",
+                "homepage": null,
+                "id": 187701900,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-08-28T17:45:58Z",
+                "open_issues": 2,
+                "owner": "W00t3k",
+                "repo": "Awesome-Cellular-Hacking",
+                "stars": 4002,
+                "topics": [
+                  "eviltwin",
+                  "gsm",
+                  "gsm-network",
+                  "hacking",
+                  "lte",
+                  "lte-evil-twin",
+                  "rogue-bts",
+                  "sdr"
+                ]
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Cellular-Security-Papers",
+              "description": "Comprehensive collection of academic papers, tools, and talks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of academic papers / Git repos / conference talks / frameworks / tools related to cellular security and privacy.",
+                "homepage": "https://www.5gsec.com/",
+                "id": 645587845,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-03-06T17:15:18Z",
+                "open_issues": 0,
+                "owner": "onehouwong",
+                "repo": "Cellular-Security-Papers",
+                "stars": 198,
+                "topics": [
+                  "5g",
+                  "cellular",
+                  "lte",
+                  "o-ran",
+                  "paper",
+                  "privacy",
+                  "security"
+                ]
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Firmware-Analysis-Papers",
+              "description": "Baseband and firmware security papers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Recent security papers on firmware analysis",
+                "homepage": null,
+                "id": 238313168,
+                "language": null,
+                "license": null,
+                "last_commit": "2021-08-30T14:55:11Z",
+                "open_issues": 0,
+                "owner": "onehouwong",
+                "repo": "Firmware-Analysis-Papers",
+                "stars": 83,
+                "topics": [
+                  "embedded-systems",
+                  "firmware-analysis",
+                  "papers"
+                ]
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GitHub Collections"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "RFSec-ToolKit",
               "description": "RF security testing tools",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktools.无线通信协议相关的工具集，可借助SDR硬件+相关工具对无线通信进行研究。Collect with ♥ by HackSmith",
+                "homepage": "https://0x0root.com",
                 "id": 83201928,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-28T06:25:40Z",
+                "open_issues": 1,
                 "owner": "cn0xroot",
                 "repo": "RFSec-ToolKit",
-                "stars": 1721
+                "stars": 1721,
+                "topics": [
+                  "bladerf",
+                  "communication",
+                  "fuzzing",
+                  "gnuradio",
+                  "hackrf",
+                  "hardware",
+                  "iot",
+                  "limesdr",
+                  "radio",
+                  "sdr",
+                  "usrp",
+                  "wireless"
+                ]
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
             }
@@ -810,49 +1987,34 @@
         }
       ],
       "title": "Resources"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "srsRAN Discussions",
-              "description": "GitHub Discussions for the srsRAN Project",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 605068341,
-                "language": "C++",
-                "last_commit": "2026-06-01T07:10:58Z",
-                "owner": "srsran",
-                "repo": "srsRAN_Project",
-                "stars": 1095
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Mailing Lists and Forums"
-        }
-      ],
-      "title": "Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:40:33.113Z",
+    "last_updated": "2026-08-29T04:20:06.855Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome-Cellular-Hacking",
+      "homepage": null,
       "id": 187701900,
       "language": null,
-      "last_commit": "2026-03-21T11:14:33Z",
+      "license": null,
+      "last_commit": "2026-08-28T17:45:58Z",
+      "open_issues": 2,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4002
+      "stars": 4002,
+      "topics": [
+        "eviltwin",
+        "gsm",
+        "gsm-network",
+        "hacking",
+        "lte",
+        "lte-evil-twin",
+        "rogue-bts",
+        "sdr"
+      ]
     },
-    "original_repository_sha": "86dbb085fd3ae5c2612a897e90d6d9252e8f40bf",
+    "original_repository_sha": "62ae1e4dd84c8e02235e1a22a4abe87d0e21ef19",
     "enhanced_repository": "enhansome/enhansome-Awesome-Cellular-Hacking",
     "enhanced_repository_description": null,
     "title": "Awesome Cellular Hacking with stars"
