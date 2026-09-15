@@ -291,11 +291,11 @@
                 "id": 14983921,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-01-26T08:20:21Z",
-                "open_issues": 349,
+                "last_commit": "2026-09-14T07:22:29Z",
+                "open_issues": 348,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4064,
+                "stars": 4067,
                 "topics": [
                   "lte",
                   "sdr",
@@ -361,10 +361,10 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-14T01:54:33Z",
-                "open_issues": 298,
+                "open_issues": 297,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2714,
+                "stars": 2716,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -448,11 +448,11 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T11:16:45Z",
-                "open_issues": 98,
+                "last_commit": "2026-09-15T00:56:14Z",
+                "open_issues": 100,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5815,
+                "stars": 5824,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -515,7 +515,7 @@
                 "open_issues": 17,
                 "owner": "FirmWire",
                 "repo": "FirmWire",
-                "stars": 883,
+                "stars": 884,
                 "topics": [
                   "baseband",
                   "emulation",
@@ -915,7 +915,7 @@
                 "open_issues": 17,
                 "owner": "FirmWire",
                 "repo": "FirmWire",
-                "stars": 883,
+                "stars": 884,
                 "topics": [
                   "baseband",
                   "emulation",
@@ -1048,7 +1048,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1078,7 +1078,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1108,7 +1108,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1138,7 +1138,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1168,7 +1168,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1205,7 +1205,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1235,7 +1235,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1265,7 +1265,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1295,7 +1295,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1325,7 +1325,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1452,7 +1452,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1491,11 +1491,11 @@
                 "id": 14983921,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-01-26T08:20:21Z",
-                "open_issues": 349,
+                "last_commit": "2026-09-14T07:22:29Z",
+                "open_issues": 348,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4064,
+                "stars": 4067,
                 "topics": [
                   "lte",
                   "sdr",
@@ -1563,11 +1563,11 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T11:16:45Z",
-                "open_issues": 98,
+                "last_commit": "2026-09-15T00:56:14Z",
+                "open_issues": 100,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5815,
+                "stars": 5824,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1681,7 +1681,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1752,7 +1752,7 @@
                 "open_issues": 3,
                 "owner": "openairinterface",
                 "repo": "openairinterface5g",
-                "stars": 213,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1871,7 +1871,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4028,
+                "stars": 4027,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -1990,7 +1990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T06:05:51.973Z",
+    "last_updated": "2026-09-15T06:05:05.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -2002,7 +2002,7 @@
       "open_issues": 2,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4028,
+      "stars": 4027,
       "topics": [
         "eviltwin",
         "gsm",
