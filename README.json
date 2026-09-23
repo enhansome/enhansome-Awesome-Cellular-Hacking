@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -187,7 +187,7 @@
                 "open_issues": 3,
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -208,7 +208,7 @@
                 "open_issues": 0,
                 "owner": "alphafox02",
                 "repo": "ransack",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -292,7 +292,7 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-14T07:22:29Z",
-                "open_issues": 349,
+                "open_issues": 352,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
                 "stars": 4074,
@@ -323,7 +323,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T12:58:56Z",
-                "open_issues": 75,
+                "open_issues": 73,
                 "owner": "free5gc",
                 "repo": "free5gc",
                 "stars": 2357,
@@ -360,11 +360,11 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-22T01:56:35Z",
-                "open_issues": 294,
+                "last_commit": "2026-09-23T04:49:02Z",
+                "open_issues": 295,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2729,
+                "stars": 2730,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -431,7 +431,7 @@
                 "open_issues": 0,
                 "owner": "alphafox02",
                 "repo": "ransack",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -452,7 +452,7 @@
                 "open_issues": 97,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5867,
+                "stars": 5874,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -473,7 +473,7 @@
                 "open_issues": 3,
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -607,7 +607,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5423,
+                "stars": 5424,
                 "topics": [
                   "android"
                 ]
@@ -792,7 +792,7 @@
                 "open_issues": 9,
                 "owner": "fgsect",
                 "repo": "scat",
-                "stars": 534,
+                "stars": 535,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1014,7 +1014,7 @@
                 "open_issues": 3,
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1492,7 +1492,7 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-14T07:22:29Z",
-                "open_issues": 349,
+                "open_issues": 352,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
                 "stars": 4074,
@@ -1522,11 +1522,11 @@
                 "id": 49863805,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-10T13:11:12Z",
+                "last_commit": "2026-09-22T08:28:07Z",
                 "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
-                "stars": 587,
+                "stars": 589,
                 "topics": [
                   "3gpp",
                   "cellular",
@@ -1567,7 +1567,7 @@
                 "open_issues": 97,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5867,
+                "stars": 5874,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1645,7 +1645,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5423,
+                "stars": 5424,
                 "topics": [
                   "android"
                 ]
@@ -1962,7 +1962,7 @@
                 "open_issues": 1,
                 "owner": "cn0xroot",
                 "repo": "RFSec-ToolKit",
-                "stars": 1730,
+                "stars": 1732,
                 "topics": [
                   "bladerf",
                   "communication",
@@ -1990,7 +1990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:03:30.662Z",
+    "last_updated": "2026-09-23T05:50:55.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
