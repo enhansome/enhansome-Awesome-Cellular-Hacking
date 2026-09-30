@@ -21,7 +21,7 @@
                 "open_issues": 17,
                 "owner": "asset-group",
                 "repo": "5ghoul-5g-nr-attacks",
-                "stars": 698,
+                "stars": 699,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -140,7 +140,7 @@
                 "open_issues": 17,
                 "owner": "asset-group",
                 "repo": "5ghoul-5g-nr-attacks",
-                "stars": 698,
+                "stars": 699,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -295,7 +295,7 @@
                 "open_issues": 352,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4078,
+                "stars": 4082,
                 "topics": [
                   "lte",
                   "sdr",
@@ -322,11 +322,11 @@
                 "id": 237391530,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T09:24:20Z",
-                "open_issues": 78,
+                "last_commit": "2026-09-30T06:28:55Z",
+                "open_issues": 80,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2359,
+                "stars": 2358,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -360,11 +360,11 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-29T00:39:09Z",
-                "open_issues": 293,
+                "last_commit": "2026-09-30T00:07:23Z",
+                "open_issues": 289,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2737,
+                "stars": 2739,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -452,7 +452,7 @@
                 "open_issues": 94,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5901,
+                "stars": 5905,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -494,7 +494,7 @@
                 "open_issues": 17,
                 "owner": "asset-group",
                 "repo": "5ghoul-5g-nr-attacks",
-                "stars": 698,
+                "stars": 699,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -512,7 +512,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-20T11:02:19Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "FirmWire",
                 "repo": "FirmWire",
                 "stars": 885,
@@ -607,7 +607,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5427,
+                "stars": 5428,
                 "topics": [
                   "android"
                 ]
@@ -912,7 +912,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-20T11:02:19Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "FirmWire",
                 "repo": "FirmWire",
                 "stars": 885,
@@ -944,7 +944,7 @@
                 "open_issues": 17,
                 "owner": "asset-group",
                 "repo": "5ghoul-5g-nr-attacks",
-                "stars": 698,
+                "stars": 699,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -993,7 +993,7 @@
                 "open_issues": 17,
                 "owner": "asset-group",
                 "repo": "5ghoul-5g-nr-attacks",
-                "stars": 698,
+                "stars": 699,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1495,7 +1495,7 @@
                 "open_issues": 352,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4078,
+                "stars": 4082,
                 "topics": [
                   "lte",
                   "sdr",
@@ -1567,7 +1567,7 @@
                 "open_issues": 94,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5901,
+                "stars": 5905,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1645,7 +1645,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5427,
+                "stars": 5428,
                 "topics": [
                   "android"
                 ]
@@ -1962,7 +1962,7 @@
                 "open_issues": 1,
                 "owner": "cn0xroot",
                 "repo": "RFSec-ToolKit",
-                "stars": 1733,
+                "stars": 1734,
                 "topics": [
                   "bladerf",
                   "communication",
@@ -1990,7 +1990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T06:47:51.175Z",
+    "last_updated": "2026-09-30T06:36:19.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
