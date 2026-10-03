@@ -295,7 +295,7 @@
                 "open_issues": 356,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4082,
+                "stars": 4086,
                 "topics": [
                   "lte",
                   "sdr",
@@ -323,10 +323,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T06:28:55Z",
-                "open_issues": 81,
+                "open_issues": 84,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2358,
+                "stars": 2359,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -360,11 +360,11 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T00:34:33Z",
-                "open_issues": 292,
+                "last_commit": "2026-10-02T12:59:55Z",
+                "open_issues": 295,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2745,
+                "stars": 2746,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -390,7 +390,7 @@
             {
               "node_type": "item",
               "title": "BladeRF and YateBTS Configuration",
-              "description": null,
+              "description": "Nuand/bladeRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -399,11 +399,11 @@
                 "id": 8283085,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T18:15:04Z",
-                "open_issues": 161,
+                "last_commit": "2026-10-02T18:45:55Z",
+                "open_issues": 162,
                 "owner": "Nuand",
                 "repo": "bladeRF",
-                "stars": 1377,
+                "stars": 1376,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -448,11 +448,11 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T21:21:30Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-02T10:53:34Z",
+                "open_issues": 95,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5910,
+                "stars": 5912,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -630,7 +630,7 @@
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
-                "stars": 438,
+                "stars": 439,
                 "topics": [
                   "baseband",
                   "ios"
@@ -702,7 +702,7 @@
                 "open_issues": 26,
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": [
                   "cellular",
                   "lte",
@@ -1034,328 +1034,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "ENISA 5G Threat Landscape",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            },
-            {
-              "node_type": "item",
-              "title": "5GReasoner Analysis Framework",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            },
-            {
-              "node_type": "item",
-              "title": "5G NR Jamming, Spoofing, and Sniffing",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Insecure Connection Bootstrapping in Cellular Networks",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Protecting 4G and 5G Cellular Paging Protocols",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "5G Security Research"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Breaking LTE on Layer Two",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LTE/LTE-A Jamming, Spoofing, and Sniffing",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LTE Protocol Exploits",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Practical Attacks Against Privacy and Availability",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LTE Security Assessment",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "LTE/4G Security Research"
-        }
-      ],
-      "title": "Attack Vectors"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "Uncovering 'NASty' 5G Baseband Vulnerabilities through Dependency-Aware Fuzzing",
-              "description": null,
+              "description": "sixteen250/BlackHat_USA2025_Sessions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1383,7 +1063,7 @@
             {
               "node_type": "item",
               "title": "BaseBridge: Bridging Over-the-Air and Emulation Testing for Cellular Baseband Firmware",
-              "description": null,
+              "description": "FirmWire/BaseBridge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1411,7 +1091,7 @@
             {
               "node_type": "item",
               "title": "BASECOMP: A Comparative Analysis for Integrity Protection in Cellular Baseband Software",
-              "description": null,
+              "description": "kaist-hacking/BaseComp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1433,43 +1113,6 @@
           "description": null,
           "node_type": "group",
           "title": "USENIX Security 2023"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "VoLTE Phreaking",
-              "description": "Ralph Moonen",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Previous Years"
         }
       ],
       "title": "Conference Talks"
@@ -1495,7 +1138,7 @@
                 "open_issues": 356,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4082,
+                "stars": 4086,
                 "topics": [
                   "lte",
                   "sdr",
@@ -1522,7 +1165,7 @@
                 "id": 49863805,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-25T12:56:04Z",
+                "last_commit": "2026-10-02T11:13:16Z",
                 "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
@@ -1563,11 +1206,11 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T21:21:30Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-02T10:53:34Z",
+                "open_issues": 95,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5910,
+                "stars": 5912,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1588,7 +1231,7 @@
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
-                "stars": 438,
+                "stars": 439,
                 "topics": [
                   "baseband",
                   "ios"
@@ -1632,7 +1275,7 @@
             {
               "node_type": "item",
               "title": "IMSI-Catcher Detector (Android)",
-              "description": null,
+              "description": "CellularPrivacy/Android-IMSI-Catcher-Detector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1663,43 +1306,6 @@
     {
       "description": null,
       "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Bypassing GSMA SS7 Recommendations",
-              "description": "Kirill Puzankov",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "SS7 Attack Research"
-        },
         {
           "children": [
             {
@@ -1857,36 +1463,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Awesome-Cellular-Hacking",
-              "description": "This repository",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome-Cellular-Hacking",
-                "homepage": null,
-                "id": 187701900,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
-                "owner": "W00t3k",
-                "repo": "Awesome-Cellular-Hacking",
-                "stars": 4051,
-                "topics": [
-                  "eviltwin",
-                  "gsm",
-                  "gsm-network",
-                  "hacking",
-                  "lte",
-                  "lte-evil-twin",
-                  "rogue-bts",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:33.113Z"
-            },
-            {
-              "node_type": "item",
               "title": "Cellular-Security-Papers",
               "description": "Comprehensive collection of academic papers, tools, and talks",
               "children": [],
@@ -1990,7 +1566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:56:44.348Z",
+    "last_updated": "2026-10-03T04:24:11.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1999,10 +1575,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-28T17:45:58Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4051,
+      "stars": 4049,
       "topics": [
         "eviltwin",
         "gsm",
