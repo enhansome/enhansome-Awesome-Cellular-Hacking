@@ -217,7 +217,7 @@ New to cellular security research? This section outlines the recommended path fo
 | **srsRAN Project**          | Open-source 5G O-RAN CU/DU software suite                    | [GitHub](https://github.com/srsran/srsRAN_Project) ⚠️ Archived                             |
 | **srsRAN 4G**               | Open-source 4G software radio suite                          | [GitHub](https://github.com/srsran/srsRAN_4G) ⭐ 4,086 \| 🐛 356 \| 🌐 C++ \| 📅 2026-09-14 |
 | **OpenAirInterface**        | Complete 4G/5G protocol stack                                | [Website](https://openairinterface.org/)                                                   |
-| **Free5GC**                 | Open-source 5G core network implementation                   | [GitHub](https://github.com/free5gc/free5gc) ⭐ 2,359 \| 🐛 84 \| 🌐 Go \| 📅 2026-09-30    |
+| **Free5GC**                 | Open-source 5G core network implementation                   | [GitHub](https://github.com/free5gc/free5gc) ⭐ 2,358 \| 🐛 84 \| 🌐 Go \| 📅 2026-09-30    |
 | **Open5GS**                 | Open-source 5G core and EPC implementation                   | [GitHub](https://github.com/open5gs/open5gs) ⭐ 2,746 \| 🐛 295 \| 🌐 C \| 📅 2026-10-02    |
 | **Kamailio**                | Open-source SIP server used in IMS/VoLTE labs                | [Website](https://www.kamailio.org/)                                                       |
 
@@ -232,7 +232,7 @@ New to cellular security research? This section outlines the recommended path fo
 | Tool                      | Description                                                                                                                                      | Link                                                                                                                                         |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Ransack**               | Multi-RAT cellular survey platform for DragonOS; merges LTE/5G NR/GSM/NB-IoT into unified DB; orchestrates srsRAN, LTESniffer, FALCON, Rayhunter | [GitHub](https://github.com/alphafox02/ransack) ⭐ 6 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-26                                                    |
-| **Rayhunter**             | EFF's IMSI catcher detector for Orbic hotspots; detects 2G downgrades and suspicious requests                                                    | [GitHub](https://github.com/EFForg/rayhunter) ⭐ 5,912 \| 🐛 95 \| 🌐 Rust \| 📅 2026-10-02                                                   |
+| **Rayhunter**             | EFF's IMSI catcher detector for Orbic hotspots; detects 2G downgrades and suspicious requests                                                    | [GitHub](https://github.com/EFForg/rayhunter) ⭐ 5,913 \| 🐛 95 \| 🌐 Rust \| 📅 2026-10-02                                                   |
 | **5GBaseChecker**         | Automated 5G baseband vulnerability detection (Penn State)                                                                                       | [GitHub](https://github.com/SyNSec-den/5GBaseChecker) ⭐ 117 \| 🐛 3 \| 🌐 C \| 📅 2025-01-22                                                 |
 | **5GHOUL**                | 5G NR attacks against Qualcomm/MediaTek with stateful fuzzer                                                                                     | [GitHub](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 699 \| 🐛 17 \| 🌐 C++ \| 📅 2026-03-11                                      |
 | **FirmWire**              | Full-system baseband firmware emulation for fuzzing/debugging                                                                                    | [GitHub](https://github.com/FirmWire/FirmWire) ⭐ 887 \| 🐛 19 \| 🌐 Python \| 📅 2026-08-20                                                  |
@@ -684,7 +684,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### Protection from Stingrays and IMSI Catchers
 
-* **[Rayhunter](https://github.com/EFForg/rayhunter) ⭐ 5,912 | 🐛 95 | 🌐 Rust | 📅 2026-10-02** — EFF, 2025
+* **[Rayhunter](https://github.com/EFForg/rayhunter) ⭐ 5,913 | 🐛 95 | 🌐 Rust | 📅 2026-10-02** — EFF, 2025
 
   Open-source IMSI catcher detector that runs on affordable Orbic mobile hotspots (\~$20-30). Analyzes control traffic in real-time looking for 2G downgrade attempts and unusual IMSI requests. Thousands deployed worldwide with community-contributed packet captures. [Documentation](https://efforg.github.io/rayhunter/) — [Blog Post](https://www.eff.org/deeplinks/2025/03/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying)
 

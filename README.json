@@ -326,7 +326,7 @@
                 "open_issues": 84,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2359,
+                "stars": 2358,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -452,7 +452,7 @@
                 "open_issues": 95,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5912,
+                "stars": 5913,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1210,7 +1210,7 @@
                 "open_issues": 95,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5912,
+                "stars": 5913,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1566,7 +1566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:24:11.975Z",
+    "last_updated": "2026-10-03T06:22:21.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
