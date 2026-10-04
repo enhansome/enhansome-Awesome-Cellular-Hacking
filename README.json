@@ -161,7 +161,7 @@
                 "open_issues": 0,
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "gprs",
                   "gsm",
@@ -242,7 +242,7 @@
                 "open_issues": 0,
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "gprs",
                   "gsm",
@@ -295,7 +295,7 @@
                 "open_issues": 356,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4086,
+                "stars": 4087,
                 "topics": [
                   "lte",
                   "sdr",
@@ -326,7 +326,7 @@
                 "open_issues": 84,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2358,
+                "stars": 2356,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -361,10 +361,10 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-02T12:59:55Z",
-                "open_issues": 295,
+                "open_issues": 297,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2746,
+                "stars": 2747,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -448,11 +448,11 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T10:53:34Z",
-                "open_issues": 95,
+                "last_commit": "2026-10-03T09:22:28Z",
+                "open_issues": 94,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5913,
+                "stars": 5916,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -586,7 +586,7 @@
                 "open_issues": 164,
                 "owner": "ptrkrysik",
                 "repo": "gr-gsm",
-                "stars": 1501,
+                "stars": 1502,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -630,7 +630,7 @@
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
-                "stars": 439,
+                "stars": 440,
                 "topics": [
                   "baseband",
                   "ios"
@@ -702,7 +702,7 @@
                 "open_issues": 26,
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2236,
+                "stars": 2235,
                 "topics": [
                   "cellular",
                   "lte",
@@ -771,7 +771,7 @@
                 "open_issues": 59,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 397,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -792,7 +792,7 @@
                 "open_issues": 10,
                 "owner": "fgsect",
                 "repo": "scat",
-                "stars": 539,
+                "stars": 540,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1138,7 +1138,7 @@
                 "open_issues": 356,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4086,
+                "stars": 4087,
                 "topics": [
                   "lte",
                   "sdr",
@@ -1206,11 +1206,11 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T10:53:34Z",
-                "open_issues": 95,
+                "last_commit": "2026-10-03T09:22:28Z",
+                "open_issues": 94,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5913,
+                "stars": 5916,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1231,7 +1231,7 @@
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
-                "stars": 439,
+                "stars": 440,
                 "topics": [
                   "baseband",
                   "ios"
@@ -1324,7 +1324,7 @@
                 "open_issues": 59,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 397,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1538,7 +1538,7 @@
                 "open_issues": 1,
                 "owner": "cn0xroot",
                 "repo": "RFSec-ToolKit",
-                "stars": 1735,
+                "stars": 1736,
                 "topics": [
                   "bladerf",
                   "communication",
@@ -1566,7 +1566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:22:21.500Z",
+    "last_updated": "2026-10-04T06:45:32.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1578,7 +1578,7 @@
       "open_issues": 3,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4049,
+      "stars": 4051,
       "topics": [
         "eviltwin",
         "gsm",
