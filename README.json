@@ -323,7 +323,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T06:28:55Z",
-                "open_issues": 84,
+                "open_issues": 87,
                 "owner": "free5gc",
                 "repo": "free5gc",
                 "stars": 2356,
@@ -360,11 +360,11 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T12:59:55Z",
-                "open_issues": 297,
+                "last_commit": "2026-10-05T01:09:49Z",
+                "open_issues": 298,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2747,
+                "stars": 2748,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -452,7 +452,7 @@
                 "open_issues": 94,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5916,
+                "stars": 5919,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -603,11 +603,11 @@
                 "id": 14640193,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T22:30:49Z",
+                "last_commit": "2026-10-04T15:51:36Z",
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5429,
+                "stars": 5430,
                 "topics": [
                   "android"
                 ]
@@ -702,7 +702,7 @@
                 "open_issues": 26,
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": [
                   "cellular",
                   "lte",
@@ -771,7 +771,7 @@
                 "open_issues": 59,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 398,
+                "stars": 399,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1210,7 +1210,7 @@
                 "open_issues": 94,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5916,
+                "stars": 5919,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1284,11 +1284,11 @@
                 "id": 14640193,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T22:30:49Z",
+                "last_commit": "2026-10-04T15:51:36Z",
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5429,
+                "stars": 5430,
                 "topics": [
                   "android"
                 ]
@@ -1324,7 +1324,7 @@
                 "open_issues": 59,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 398,
+                "stars": 399,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1354,7 +1354,7 @@
                 "id": 697820060,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T18:56:06Z",
+                "last_commit": "2026-10-04T19:04:05Z",
                 "open_issues": 3,
                 "owner": "openairinterface",
                 "repo": "openairinterface5g",
@@ -1566,7 +1566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T06:45:32.027Z",
+    "last_updated": "2026-10-05T06:53:06.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1578,7 +1578,7 @@
       "open_issues": 3,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4051,
+      "stars": 4052,
       "topics": [
         "eviltwin",
         "gsm",
