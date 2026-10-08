@@ -295,7 +295,7 @@
                 "open_issues": 356,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4086,
+                "stars": 4087,
                 "topics": [
                   "lte",
                   "sdr",
@@ -326,7 +326,7 @@
                 "open_issues": 88,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2356,
+                "stars": 2357,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -361,7 +361,7 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-07T06:07:23Z",
-                "open_issues": 302,
+                "open_issues": 304,
                 "owner": "open5gs",
                 "repo": "open5gs",
                 "stars": 2751,
@@ -448,11 +448,11 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T19:29:52Z",
+                "last_commit": "2026-10-07T17:30:46Z",
                 "open_issues": 92,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5924,
+                "stars": 5926,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -702,7 +702,7 @@
                 "open_issues": 26,
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2239,
+                "stars": 2240,
                 "topics": [
                   "cellular",
                   "lte",
@@ -771,7 +771,7 @@
                 "open_issues": 59,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 399,
+                "stars": 400,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1138,7 +1138,7 @@
                 "open_issues": 356,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4086,
+                "stars": 4087,
                 "topics": [
                   "lte",
                   "sdr",
@@ -1169,7 +1169,7 @@
                 "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
-                "stars": 594,
+                "stars": 595,
                 "topics": [
                   "3gpp",
                   "cellular",
@@ -1206,11 +1206,11 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T19:29:52Z",
+                "last_commit": "2026-10-07T17:30:46Z",
                 "open_issues": 92,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5924,
+                "stars": 5926,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1324,7 +1324,7 @@
                 "open_issues": 59,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 399,
+                "stars": 400,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1566,7 +1566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T07:08:13.664Z",
+    "last_updated": "2026-10-08T07:15:42.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
