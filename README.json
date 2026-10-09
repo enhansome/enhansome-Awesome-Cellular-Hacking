@@ -326,7 +326,7 @@
                 "open_issues": 88,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2357,
+                "stars": 2356,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -360,8 +360,8 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-07T06:07:23Z",
-                "open_issues": 304,
+                "last_commit": "2026-10-09T05:36:45Z",
+                "open_issues": 301,
                 "owner": "open5gs",
                 "repo": "open5gs",
                 "stars": 2751,
@@ -452,7 +452,7 @@
                 "open_issues": 92,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5926,
+                "stars": 5931,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -586,7 +586,7 @@
                 "open_issues": 163,
                 "owner": "ptrkrysik",
                 "repo": "gr-gsm",
-                "stars": 1503,
+                "stars": 1505,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -607,7 +607,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5431,
+                "stars": 5432,
                 "topics": [
                   "android"
                 ]
@@ -626,7 +626,7 @@
                 "id": 815166789,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-27T11:38:30Z",
+                "last_commit": "2026-10-08T10:45:44Z",
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
@@ -1165,11 +1165,11 @@
                 "id": 49863805,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T11:13:16Z",
+                "last_commit": "2026-10-09T06:49:14Z",
                 "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
-                "stars": 595,
+                "stars": 597,
                 "topics": [
                   "3gpp",
                   "cellular",
@@ -1210,7 +1210,7 @@
                 "open_issues": 92,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5926,
+                "stars": 5931,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1227,7 +1227,7 @@
                 "id": 815166789,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-27T11:38:30Z",
+                "last_commit": "2026-10-08T10:45:44Z",
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
@@ -1288,7 +1288,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5431,
+                "stars": 5432,
                 "topics": [
                   "android"
                 ]
@@ -1566,7 +1566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T07:15:42.084Z",
+    "last_updated": "2026-10-09T07:19:14.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1578,7 +1578,7 @@
       "open_issues": 3,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4051,
+      "stars": 4052,
       "topics": [
         "eviltwin",
         "gsm",
