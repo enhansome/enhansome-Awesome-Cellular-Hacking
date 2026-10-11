@@ -161,7 +161,7 @@
                 "open_issues": 0,
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
-                "stars": 319,
+                "stars": 320,
                 "topics": [
                   "gprs",
                   "gsm",
@@ -242,7 +242,7 @@
                 "open_issues": 0,
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
-                "stars": 319,
+                "stars": 320,
                 "topics": [
                   "gprs",
                   "gsm",
@@ -295,7 +295,7 @@
                 "open_issues": 356,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4088,
+                "stars": 4089,
                 "topics": [
                   "lte",
                   "sdr",
@@ -361,10 +361,10 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-09T11:43:45Z",
-                "open_issues": 305,
+                "open_issues": 308,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2752,
+                "stars": 2755,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -452,7 +452,7 @@
                 "open_issues": 93,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5935,
+                "stars": 5937,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -565,7 +565,7 @@
                 "open_issues": 33,
                 "owner": "Evrytania",
                 "repo": "LTE-Cell-Scanner",
-                "stars": 673,
+                "stars": 674,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -607,7 +607,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5432,
+                "stars": 5431,
                 "topics": [
                   "android"
                 ]
@@ -630,7 +630,7 @@
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
-                "stars": 440,
+                "stars": 441,
                 "topics": [
                   "baseband",
                   "ios"
@@ -702,7 +702,7 @@
                 "open_issues": 26,
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2241,
+                "stars": 2242,
                 "topics": [
                   "cellular",
                   "lte",
@@ -750,7 +750,7 @@
                 "open_issues": 3,
                 "owner": "Synacktiv-contrib",
                 "repo": "Modmobjam",
-                "stars": 104,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -792,7 +792,7 @@
                 "open_issues": 10,
                 "owner": "fgsect",
                 "repo": "scat",
-                "stars": 540,
+                "stars": 542,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1138,7 +1138,7 @@
                 "open_issues": 356,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4088,
+                "stars": 4089,
                 "topics": [
                   "lte",
                   "sdr",
@@ -1210,7 +1210,7 @@
                 "open_issues": 93,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5935,
+                "stars": 5937,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1231,7 +1231,7 @@
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "CellGuard",
-                "stars": 440,
+                "stars": 441,
                 "topics": [
                   "baseband",
                   "ios"
@@ -1288,7 +1288,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5432,
+                "stars": 5431,
                 "topics": [
                   "android"
                 ]
@@ -1566,7 +1566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:57:15.733Z",
+    "last_updated": "2026-10-11T07:02:57.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1578,7 +1578,7 @@
       "open_issues": 3,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4053,
+      "stars": 4055,
       "topics": [
         "eviltwin",
         "gsm",
