@@ -295,7 +295,7 @@
                 "open_issues": 358,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4095,
+                "stars": 4096,
                 "topics": [
                   "lte",
                   "sdr",
@@ -323,7 +323,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T05:06:19Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "free5gc",
                 "repo": "free5gc",
                 "stars": 2360,
@@ -362,11 +362,11 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-16T12:18:19Z",
-                "open_issues": 309,
+                "last_commit": "2026-10-18T04:58:40Z",
+                "open_issues": 306,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2773,
+                "stars": 2772,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -454,7 +454,7 @@
                 "open_issues": 94,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5959,
+                "stars": 5961,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -609,7 +609,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5431,
+                "stars": 5432,
                 "topics": [
                   "android"
                 ]
@@ -704,7 +704,7 @@
                 "open_issues": 26,
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2246,
+                "stars": 2247,
                 "topics": [
                   "cellular",
                   "lte",
@@ -1140,7 +1140,7 @@
                 "open_issues": 358,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4095,
+                "stars": 4096,
                 "topics": [
                   "lte",
                   "sdr",
@@ -1212,7 +1212,7 @@
                 "open_issues": 94,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5959,
+                "stars": 5961,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1290,7 +1290,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5431,
+                "stars": 5432,
                 "topics": [
                   "android"
                 ]
@@ -1356,7 +1356,7 @@
                 "id": 697820060,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T10:31:47Z",
+                "last_commit": "2026-10-17T08:35:14Z",
                 "open_issues": 3,
                 "owner": "openairinterface",
                 "repo": "openairinterface5g",
@@ -1540,7 +1540,7 @@
                 "open_issues": 1,
                 "owner": "cn0xroot",
                 "repo": "RFSec-ToolKit",
-                "stars": 1736,
+                "stars": 1737,
                 "topics": [
                   "bladerf",
                   "communication",
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T05:30:27.827Z",
+    "last_updated": "2026-10-18T05:44:57.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1580,7 +1580,7 @@
       "open_issues": 2,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4068,
+      "stars": 4069,
       "topics": [
         "eviltwin",
         "gsm",
