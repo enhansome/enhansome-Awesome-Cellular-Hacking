@@ -322,11 +322,11 @@
                 "id": 237391530,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T05:06:19Z",
-                "open_issues": 109,
+                "last_commit": "2026-10-20T16:51:20Z",
+                "open_issues": 110,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2361,
+                "stars": 2363,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -363,10 +363,10 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-19T09:57:30Z",
-                "open_issues": 314,
+                "open_issues": 321,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2781,
+                "stars": 2783,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -405,7 +405,7 @@
                 "open_issues": 159,
                 "owner": "Nuand",
                 "repo": "bladeRF",
-                "stars": 1378,
+                "stars": 1379,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -454,7 +454,7 @@
                 "open_issues": 94,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5968,
+                "stars": 5975,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -567,7 +567,7 @@
                 "open_issues": 33,
                 "owner": "Evrytania",
                 "repo": "LTE-Cell-Scanner",
-                "stars": 675,
+                "stars": 676,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -609,7 +609,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5434,
+                "stars": 5433,
                 "topics": [
                   "android"
                 ]
@@ -1167,11 +1167,11 @@
                 "id": 49863805,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-09T22:11:49Z",
+                "last_commit": "2026-10-21T04:13:56Z",
                 "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
-                "stars": 600,
+                "stars": 601,
                 "topics": [
                   "3gpp",
                   "cellular",
@@ -1212,7 +1212,7 @@
                 "open_issues": 94,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 5968,
+                "stars": 5975,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1290,7 +1290,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5434,
+                "stars": 5433,
                 "topics": [
                   "android"
                 ]
@@ -1360,7 +1360,7 @@
                 "open_issues": 3,
                 "owner": "openairinterface",
                 "repo": "openairinterface5g",
-                "stars": 224,
+                "stars": 225,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T05:54:57.742Z",
+    "last_updated": "2026-10-21T05:56:06.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1580,7 +1580,7 @@
       "open_issues": 2,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4075,
+      "stars": 4079,
       "topics": [
         "eviltwin",
         "gsm",
