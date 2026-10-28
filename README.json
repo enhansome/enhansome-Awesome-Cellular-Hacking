@@ -161,7 +161,7 @@
                 "open_issues": 0,
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "gprs",
                   "gsm",
@@ -208,7 +208,7 @@
                 "open_issues": 0,
                 "owner": "alphafox02",
                 "repo": "ransack",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -242,7 +242,7 @@
                 "open_issues": 0,
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "gprs",
                   "gsm",
@@ -295,7 +295,7 @@
                 "open_issues": 373,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4100,
+                "stars": 4102,
                 "topics": [
                   "lte",
                   "sdr",
@@ -323,7 +323,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-22T06:54:29Z",
-                "open_issues": 116,
+                "open_issues": 113,
                 "owner": "free5gc",
                 "repo": "free5gc",
                 "stars": 2365,
@@ -363,7 +363,7 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-26T08:11:06Z",
-                "open_issues": 334,
+                "open_issues": 337,
                 "owner": "open5gs",
                 "repo": "open5gs",
                 "stars": 2792,
@@ -405,7 +405,7 @@
                 "open_issues": 159,
                 "owner": "Nuand",
                 "repo": "bladeRF",
-                "stars": 1380,
+                "stars": 1381,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -433,7 +433,7 @@
                 "open_issues": 0,
                 "owner": "alphafox02",
                 "repo": "ransack",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -454,7 +454,7 @@
                 "open_issues": 97,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6005,
+                "stars": 6015,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -517,7 +517,7 @@
                 "open_issues": 19,
                 "owner": "FirmWire",
                 "repo": "FirmWire",
-                "stars": 891,
+                "stars": 892,
                 "topics": [
                   "baseband",
                   "emulation",
@@ -567,7 +567,7 @@
                 "open_issues": 33,
                 "owner": "Evrytania",
                 "repo": "LTE-Cell-Scanner",
-                "stars": 676,
+                "stars": 677,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -588,7 +588,7 @@
                 "open_issues": 162,
                 "owner": "ptrkrysik",
                 "repo": "gr-gsm",
-                "stars": 1510,
+                "stars": 1511,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -609,7 +609,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5438,
+                "stars": 5439,
                 "topics": [
                   "android"
                 ]
@@ -704,7 +704,7 @@
                 "open_issues": 26,
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2250,
+                "stars": 2251,
                 "topics": [
                   "cellular",
                   "lte",
@@ -752,7 +752,7 @@
                 "open_issues": 3,
                 "owner": "Synacktiv-contrib",
                 "repo": "Modmobjam",
-                "stars": 107,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -773,7 +773,7 @@
                 "open_issues": 59,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 401,
+                "stars": 403,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -917,7 +917,7 @@
                 "open_issues": 19,
                 "owner": "FirmWire",
                 "repo": "FirmWire",
-                "stars": 891,
+                "stars": 892,
                 "topics": [
                   "baseband",
                   "emulation",
@@ -1140,7 +1140,7 @@
                 "open_issues": 373,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4100,
+                "stars": 4102,
                 "topics": [
                   "lte",
                   "sdr",
@@ -1167,11 +1167,11 @@
                 "id": 49863805,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-21T04:13:56Z",
+                "last_commit": "2026-10-27T12:14:23Z",
                 "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
-                "stars": 604,
+                "stars": 605,
                 "topics": [
                   "3gpp",
                   "cellular",
@@ -1212,7 +1212,7 @@
                 "open_issues": 97,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6005,
+                "stars": 6015,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1290,7 +1290,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5438,
+                "stars": 5439,
                 "topics": [
                   "android"
                 ]
@@ -1326,7 +1326,7 @@
                 "open_issues": 59,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 401,
+                "stars": 403,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1540,7 +1540,7 @@
                 "open_issues": 1,
                 "owner": "cn0xroot",
                 "repo": "RFSec-ToolKit",
-                "stars": 1738,
+                "stars": 1739,
                 "topics": [
                   "bladerf",
                   "communication",
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T06:10:52.352Z",
+    "last_updated": "2026-10-28T06:47:29.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1580,7 +1580,7 @@
       "open_issues": 2,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4089,
+      "stars": 4091,
       "topics": [
         "eviltwin",
         "gsm",
