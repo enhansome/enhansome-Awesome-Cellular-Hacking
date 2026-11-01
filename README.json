@@ -292,7 +292,7 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-30T22:17:49Z",
-                "open_issues": 374,
+                "open_issues": 375,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
                 "stars": 4100,
@@ -323,10 +323,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-22T06:54:29Z",
-                "open_issues": 115,
+                "open_issues": 117,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2366,
+                "stars": 2367,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -366,7 +366,7 @@
                 "open_issues": 341,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2799,
+                "stars": 2801,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -454,7 +454,7 @@
                 "open_issues": 97,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6027,
+                "stars": 6032,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1137,7 +1137,7 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-30T22:17:49Z",
-                "open_issues": 374,
+                "open_issues": 375,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
                 "stars": 4100,
@@ -1167,7 +1167,7 @@
                 "id": 49863805,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-30T13:46:15Z",
+                "last_commit": "2026-10-31T08:37:04Z",
                 "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
@@ -1212,7 +1212,7 @@
                 "open_issues": 97,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6027,
+                "stars": 6032,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T06:54:15.148Z",
+    "last_updated": "2026-11-01T07:24:00.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
