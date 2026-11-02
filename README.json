@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "asset-group",
                 "repo": "5ghoul-5g-nr-attacks",
-                "stars": 701,
+                "stars": 702,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -140,7 +140,7 @@
                 "open_issues": 18,
                 "owner": "asset-group",
                 "repo": "5ghoul-5g-nr-attacks",
-                "stars": 701,
+                "stars": 702,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -322,11 +322,11 @@
                 "id": 237391530,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T06:54:29Z",
+                "last_commit": "2026-11-02T03:40:55Z",
                 "open_issues": 117,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2367,
+                "stars": 2369,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -363,10 +363,10 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-31T06:10:55Z",
-                "open_issues": 341,
+                "open_issues": 342,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2801,
+                "stars": 2803,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -454,7 +454,7 @@
                 "open_issues": 97,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6032,
+                "stars": 6035,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -496,7 +496,7 @@
                 "open_issues": 18,
                 "owner": "asset-group",
                 "repo": "5ghoul-5g-nr-attacks",
-                "stars": 701,
+                "stars": 702,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -517,7 +517,7 @@
                 "open_issues": 20,
                 "owner": "FirmWire",
                 "repo": "FirmWire",
-                "stars": 895,
+                "stars": 896,
                 "topics": [
                   "baseband",
                   "emulation",
@@ -704,7 +704,7 @@
                 "open_issues": 26,
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2249,
+                "stars": 2250,
                 "topics": [
                   "cellular",
                   "lte",
@@ -773,7 +773,7 @@
                 "open_issues": 59,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 406,
+                "stars": 405,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -917,7 +917,7 @@
                 "open_issues": 20,
                 "owner": "FirmWire",
                 "repo": "FirmWire",
-                "stars": 895,
+                "stars": 896,
                 "topics": [
                   "baseband",
                   "emulation",
@@ -946,7 +946,7 @@
                 "open_issues": 18,
                 "owner": "asset-group",
                 "repo": "5ghoul-5g-nr-attacks",
-                "stars": 701,
+                "stars": 702,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -995,7 +995,7 @@
                 "open_issues": 18,
                 "owner": "asset-group",
                 "repo": "5ghoul-5g-nr-attacks",
-                "stars": 701,
+                "stars": 702,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1171,7 +1171,7 @@
                 "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
-                "stars": 605,
+                "stars": 606,
                 "topics": [
                   "3gpp",
                   "cellular",
@@ -1212,7 +1212,7 @@
                 "open_issues": 97,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6032,
+                "stars": 6035,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1326,7 +1326,7 @@
                 "open_issues": 59,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 406,
+                "stars": 405,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1356,11 +1356,11 @@
                 "id": 697820060,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T10:47:28Z",
+                "last_commit": "2026-11-01T14:27:08Z",
                 "open_issues": 3,
                 "owner": "openairinterface",
                 "repo": "openairinterface5g",
-                "stars": 227,
+                "stars": 228,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1479,7 +1479,7 @@
                 "open_issues": 0,
                 "owner": "onehouwong",
                 "repo": "Cellular-Security-Papers",
-                "stars": 201,
+                "stars": 202,
                 "topics": [
                   "5g",
                   "cellular",
@@ -1540,7 +1540,7 @@
                 "open_issues": 1,
                 "owner": "cn0xroot",
                 "repo": "RFSec-ToolKit",
-                "stars": 1737,
+                "stars": 1736,
                 "topics": [
                   "bladerf",
                   "communication",
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T07:24:00.295Z",
+    "last_updated": "2026-11-02T07:35:16.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1580,7 +1580,7 @@
       "open_issues": 1,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4099,
+      "stars": 4102,
       "topics": [
         "eviltwin",
         "gsm",

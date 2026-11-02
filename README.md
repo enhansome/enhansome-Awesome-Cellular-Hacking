@@ -114,7 +114,7 @@ New to cellular security research? This section outlines the recommended path fo
 
 * **[SNI5GECT: Sniffing and Injecting 5G Traffic Without Rogue Base Stations](https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html)** — Singapore University of Technology and Design, USENIX Security 2025
 
-  Framework that enables sniffing unencrypted 5G messages and injecting attack payloads over-the-air without jamming or rogue base stations. An attacker within 20 meters can force devices to reboot and downgrade to 4G. [GitHub](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 701 | 🐛 18 | 🌐 C++ | 📅 2026-03-11
+  Framework that enables sniffing unencrypted 5G messages and injecting attack payloads over-the-air without jamming or rogue base stations. An attacker within 20 meters can force devices to reboot and downgrade to 4G. [GitHub](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 702 | 🐛 18 | 🌐 C++ | 📅 2026-03-11
 
 * **[BaseBridge: Over-the-Air and Emulation Testing for Cellular Baseband Firmware](https://github.com/FirmWire/BaseBridge) ⭐ 16 | 🐛 0 | 📅 2025-05-12** — IEEE S\&P 2025
 
@@ -192,7 +192,7 @@ New to cellular security research? This section outlines the recommended path fo
 
 ### Base Station Software and Tools (Updated)
 
-* **[5GHOUL](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 701 | 🐛 18 | 🌐 C++ | 📅 2026-03-11** — 5G NR fuzzing and attack framework targeting Qualcomm/MediaTek
+* **[5GHOUL](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 702 | 🐛 18 | 🌐 C++ | 📅 2026-03-11** — 5G NR fuzzing and attack framework targeting Qualcomm/MediaTek
 * **[OpenBTS 2024 Reloaded](https://github.com/PentHertz/OpenBTS) ⭐ 325 | 🐛 0 | 🌐 C++ | 📅 2026-10-28** — Updated for modern UHD drivers and Ubuntu 22.04/24.04
 * **[5GBaseChecker](https://github.com/SyNSec-den/5GBaseChecker) ⭐ 118 | 🐛 3 | 🌐 C | 📅 2025-01-22** — Automated 5G baseband vulnerability detection tool
 * **[Ransack](https://github.com/alphafox02/ransack) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-26** — Multi-RAT cellular survey/recon platform; unifies LTE/5G NR/GSM/NB-IoT observations from SDRs, Qualcomm phones, and Rayhunter into SQLite with REST API
@@ -217,8 +217,8 @@ New to cellular security research? This section outlines the recommended path fo
 | **srsRAN Project**          | Open-source 5G O-RAN CU/DU software suite                    | [GitHub](https://github.com/srsran/srsRAN_Project) ⚠️ Archived                             |
 | **srsRAN 4G**               | Open-source 4G software radio suite                          | [GitHub](https://github.com/srsran/srsRAN_4G) ⭐ 4,100 \| 🐛 375 \| 🌐 C++ \| 📅 2026-10-30 |
 | **OpenAirInterface**        | Complete 4G/5G protocol stack                                | [Website](https://openairinterface.org/)                                                   |
-| **Free5GC**                 | Open-source 5G core network implementation                   | [GitHub](https://github.com/free5gc/free5gc) ⭐ 2,367 \| 🐛 117 \| 🌐 Go \| 📅 2026-10-22   |
-| **Open5GS**                 | Open-source 5G core and EPC implementation                   | [GitHub](https://github.com/open5gs/open5gs) ⭐ 2,801 \| 🐛 341 \| 🌐 C \| 📅 2026-10-31    |
+| **Free5GC**                 | Open-source 5G core network implementation                   | [GitHub](https://github.com/free5gc/free5gc) ⭐ 2,369 \| 🐛 117 \| 🌐 Go \| 📅 2026-11-02   |
+| **Open5GS**                 | Open-source 5G core and EPC implementation                   | [GitHub](https://github.com/open5gs/open5gs) ⭐ 2,803 \| 🐛 342 \| 🌐 C \| 📅 2026-10-31    |
 | **Kamailio**                | Open-source SIP server used in IMS/VoLTE labs                | [Website](https://www.kamailio.org/)                                                       |
 
 ### Configuration Guides
@@ -232,10 +232,10 @@ New to cellular security research? This section outlines the recommended path fo
 | Tool                      | Description                                                                                                                                      | Link                                                                                                                                         |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Ransack**               | Multi-RAT cellular survey platform for DragonOS; merges LTE/5G NR/GSM/NB-IoT into unified DB; orchestrates srsRAN, LTESniffer, FALCON, Rayhunter | [GitHub](https://github.com/alphafox02/ransack) ⭐ 8 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-26                                                    |
-| **Rayhunter**             | EFF's IMSI catcher detector for Orbic hotspots; detects 2G downgrades and suspicious requests                                                    | [GitHub](https://github.com/EFForg/rayhunter) ⭐ 6,032 \| 🐛 97 \| 🌐 Rust \| 📅 2026-10-30                                                   |
+| **Rayhunter**             | EFF's IMSI catcher detector for Orbic hotspots; detects 2G downgrades and suspicious requests                                                    | [GitHub](https://github.com/EFForg/rayhunter) ⭐ 6,035 \| 🐛 97 \| 🌐 Rust \| 📅 2026-10-30                                                   |
 | **5GBaseChecker**         | Automated 5G baseband vulnerability detection (Penn State)                                                                                       | [GitHub](https://github.com/SyNSec-den/5GBaseChecker) ⭐ 118 \| 🐛 3 \| 🌐 C \| 📅 2025-01-22                                                 |
-| **5GHOUL**                | 5G NR attacks against Qualcomm/MediaTek with stateful fuzzer                                                                                     | [GitHub](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 701 \| 🐛 18 \| 🌐 C++ \| 📅 2026-03-11                                      |
-| **FirmWire**              | Full-system baseband firmware emulation for fuzzing/debugging                                                                                    | [GitHub](https://github.com/FirmWire/FirmWire) ⭐ 895 \| 🐛 20 \| 🌐 Python \| 📅 2026-08-20                                                  |
+| **5GHOUL**                | 5G NR attacks against Qualcomm/MediaTek with stateful fuzzer                                                                                     | [GitHub](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 702 \| 🐛 18 \| 🌐 C++ \| 📅 2026-03-11                                      |
+| **FirmWire**              | Full-system baseband firmware emulation for fuzzing/debugging                                                                                    | [GitHub](https://github.com/FirmWire/FirmWire) ⭐ 896 \| 🐛 20 \| 🌐 Python \| 📅 2026-08-20                                                  |
 | **BaseBridge**            | Bridges OTA and emulation testing for baseband firmware                                                                                          | [GitHub](https://github.com/FirmWire/BaseBridge) ⭐ 16 \| 🐛 0 \| 📅 2025-05-12                                                               |
 | **LTE-Cell-Scanner**      | LTE cell detection and analysis                                                                                                                  | [GitHub](https://github.com/Evrytania/LTE-Cell-Scanner) ⭐ 677 \| 🐛 33 \| 🌐 C++ \| 📅 2019-02-26                                            |
 | **gr-gsm**                | GSM analysis with GNU Radio                                                                                                                      | [GitHub](https://github.com/ptrkrysik/gr-gsm/wiki/Passive-IMSI-Catcher) ⭐ 1,510 \| 🐛 162 \| 🌐 C++ \| 📅 2026-10-19                         |
@@ -244,12 +244,12 @@ New to cellular security research? This section outlines the recommended path fo
 | **QCSuper**               | Capture 2G-4G traffic using Qualcomm phones                                                                                                      | [P1 Security](https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/) |
 | **FALCON LTE**            | Fast analysis of LTE control channels in real-time                                                                                               | [GitHub](https://github.com/falkenber9/falcon) ⭐ 367 \| 🐛 16 \| 🌐 C++ \| 📅 2023-10-13                                                     |
 | **Kalibrate**             | GSM base station scanner and frequency calibration                                                                                               | [GitHub](https://github.com/scateu/kalibrate-hackrf) ⭐ 308 \| 🐛 18 \| 🌐 C++ \| 📅 2022-03-21                                               |
-| **LTE Sniffer**           | Open-source LTE downlink/uplink eavesdropper                                                                                                     | [GitHub](https://github.com/SysSec-KAIST/LTESniffer) ⭐ 2,249 \| 🐛 26 \| 🌐 C++ \| 📅 2024-10-23                                             |
+| **LTE Sniffer**           | Open-source LTE downlink/uplink eavesdropper                                                                                                     | [GitHub](https://github.com/SysSec-KAIST/LTESniffer) ⭐ 2,250 \| 🐛 26 \| 🌐 C++ \| 📅 2024-10-23                                             |
 | **OsmocomBB**             | Free firmware for mobile phone baseband processors                                                                                               | [Osmocom](https://osmocom.org/projects/osmocombb)                                                                                            |
 | **Modmobmap**             | Mobile network mapping                                                                                                                           | [GitHub](https://github.com/Synacktiv-contrib/Modmobmap) ⭐ 112 \| 🐛 4 \| 🌐 Python \| 📅 2023-03-24                                         |
 | **Modmobjam**             | Mobile jamming research tool                                                                                                                     | [GitHub](https://github.com/Synacktiv-contrib/Modmobjam) ⭐ 108 \| 🐛 3 \| 🌐 Python \| 📅 2020-05-30                                         |
 | **CITesting**             | Context integrity violation testing for LTE core networks                                                                                        | [ACM DL](https://dl.acm.org/doi/10.1145/3719027.3765230)                                                                                     |
-| **SigPloit**              | SS7/Diameter/GTP/SIP signaling security testing framework                                                                                        | [GitHub](https://github.com/SigPloiter/SigPloit) ⭐ 406 \| 🐛 59 \| 🌐 Java \| 📅 2019-12-17                                                  |
+| **SigPloit**              | SS7/Diameter/GTP/SIP signaling security testing framework                                                                                        | [GitHub](https://github.com/SigPloiter/SigPloit) ⭐ 405 \| 🐛 59 \| 🌐 Java \| 📅 2019-12-17                                                  |
 | **LTEFuzz**               | LTE protocol fuzzer (KAIST)                                                                                                                      | [GitHub](https://github.com/koo7/LTEFuzz)                                                                                                    |
 | **LLFuzz**                | LLM-guided baseband firmware fuzzing for MediaTek/Samsung Shannon                                                                                | [Paper](https://arxiv.org/abs/2507.09660)                                                                                                    |
 | **Crocodile Hunter**      | EFF tool for detecting rogue cell towers by wardriving                                                                                           | [GitHub](https://github.com/EFForg/crocodile-hunter)                                                                                         |
@@ -346,13 +346,13 @@ sudo uhd_usrp_probe
 
 ### Modern Baseband Fuzzing (2024-2026)
 
-* **[FirmWire](https://github.com/FirmWire/FirmWire) ⭐ 895 | 🐛 20 | 🌐 Python | 📅 2026-08-20** — NDSS 2022
+* **[FirmWire](https://github.com/FirmWire/FirmWire) ⭐ 896 | 🐛 20 | 🌐 Python | 📅 2026-08-20** — NDSS 2022
 
   Full-system baseband firmware emulation platform for Samsung and MediaTek. Discovered 8 remote memory corruptions including 3 pre-authentication RCE vulnerabilities.
 
 * **[SNI5GECT: Practical 5G Traffic Injection](https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html)** — USENIX Security 2025
 
-  Sniff and inject 5G messages without rogue base stations or jamming. Demonstrated 4G downgrade attacks within 20 meters of victim. [GitHub](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 701 | 🐛 18 | 🌐 C++ | 📅 2026-03-11
+  Sniff and inject 5G messages without rogue base stations or jamming. Demonstrated 4G downgrade attacks within 20 meters of victim. [GitHub](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 702 | 🐛 18 | 🌐 C++ | 📅 2026-03-11
 
 * **[BaseBridge](https://github.com/FirmWire/BaseBridge) ⭐ 16 | 🐛 0 | 📅 2025-05-12** — IEEE S\&P 2025
 
@@ -372,7 +372,7 @@ sudo uhd_usrp_probe
 
 ### Vulnerability Research Tools
 
-* **[5GHOUL](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 701 | 🐛 18 | 🌐 C++ | 📅 2026-03-11** — Stateful 5G NR fuzzer with OTA attack capabilities
+* **[5GHOUL](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 702 | 🐛 18 | 🌐 C++ | 📅 2026-03-11** — Stateful 5G NR fuzzer with OTA attack capabilities
 * **[5GBaseChecker](https://github.com/SyNSec-den/5GBaseChecker) ⭐ 118 | 🐛 3 | 🌐 C | 📅 2025-01-22** — Automated 5G baseband vulnerability detection
 * **[LLFuzz](https://arxiv.org/abs/2507.09660)** — LLM-guided baseband fuzzing for MediaTek/Samsung Shannon (KAIST 2025)
 * **[CITesting](https://dl.acm.org/doi/10.1145/3719027.3765230)** — Context integrity violation testing for LTE core networks
@@ -674,7 +674,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 | srsENB          | 4G/5G Base Station Software | [GitHub](https://github.com/srsran/srsRAN/tree/master/srsenb) ⭐ 4,100 \| 🐛 375 \| 🌐 C++ \| 📅 2026-10-30 |
 | Open5GS         | 5G Core Network             | [GitHub](https://github.com/open5gs)                                                                       |
 | sysmo-usim-tool | SIM Programming             | [Project Page](https://osmocom.org/projects/cellular-infrastructure/wiki/SysmoISIM-SJA2)                   |
-| pysim           | SIM Analysis Tool           | [GitHub](https://github.com/osmocom/pysim) ⭐ 605 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-31                     |
+| pysim           | SIM Analysis Tool           | [GitHub](https://github.com/osmocom/pysim) ⭐ 606 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-31                     |
 | CoIMS           | VoLTE Testing               | [Play Store](https://play.google.com/store/apps/details?id=com.sherle.coims)                               |
 | Docker Open5GS  | Containerized Core          | [Tutorial](https://open5gs.org/open5gs/docs/tutorial/03-VoLTE-dockerized/)                                 |
 
@@ -684,7 +684,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### Protection from Stingrays and IMSI Catchers
 
-* **[Rayhunter](https://github.com/EFForg/rayhunter) ⭐ 6,032 | 🐛 97 | 🌐 Rust | 📅 2026-10-30** — EFF, 2025
+* **[Rayhunter](https://github.com/EFForg/rayhunter) ⭐ 6,035 | 🐛 97 | 🌐 Rust | 📅 2026-10-30** — EFF, 2025
 
   Open-source IMSI catcher detector that runs on affordable Orbic mobile hotspots (\~$20-30). Analyzes control traffic in real-time looking for 2G downgrade attempts and unusual IMSI requests. Thousands deployed worldwide with community-contributed packet captures. [Documentation](https://efforg.github.io/rayhunter/) — [Blog Post](https://www.eff.org/deeplinks/2025/03/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying)
 
@@ -803,7 +803,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### SS7/Diameter Testing Tools
 
-* **[SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 406 | 🐛 59 | 🌐 Java | 📅 2019-12-17** — Modular testing framework for SS7, Diameter, GTP, and SIP; covers location tracking, call/SMS interception, and DoS scenarios
+* **[SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 405 | 🐛 59 | 🌐 Java | 📅 2019-12-17** — Modular testing framework for SS7, Diameter, GTP, and SIP; covers location tracking, call/SMS interception, and DoS scenarios
 * **[ss7map](https://ss7map.p1sec.com/)** — Automated SS7 network topology and exposure mapper
 * **[SCTP scanner](https://github.com/adagilabs/sctp_scanner)** — Discovers SCTP-based SS7 endpoints on IP networks
 
@@ -869,7 +869,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### Lab Environments
 
-* **[OpenAirInterface Lab Setup](https://github.com/OpenAirInterface/openairinterface5g) ⭐ 227 | 🐛 3 | 🌐 C | 📅 2026-10-23** — Open-source 5G lab environment
+* **[OpenAirInterface Lab Setup](https://github.com/OpenAirInterface/openairinterface5g) ⭐ 228 | 🐛 3 | 🌐 C | 📅 2026-11-01** — Open-source 5G lab environment
 * **[Open5GS + srsRAN Lab Setup](https://github.com/s5uishida/open5gs_5gc_srsran_sample_config) ⭐ 16 | 🐛 4 | 📅 2026-05-16** — Complete 5G SA config with ZeroMQ UE/RAN
 * **[5G Security Datasets](https://github.com/DLTeamTUC/5GDatasets) ⭐ 14 | 🐛 0 | 📅 2025-07-31** — PCAP, CSV, and AMF logs for flooding/fuzzing/replay attacks on Open5GS, OAI, Amarisoft
 * **[End-to-End Open5GS-srsRAN Guide](https://github.com/ngkore/Open5GS-srsRAN) ⭐ 4 | 🐛 0 | 📅 2026-03-18** — Deployment guide for Ubuntu 22.04
@@ -907,14 +907,14 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### GitHub Collections
 
-* **[Cellular-Security-Papers](https://github.com/onehouwong/Cellular-Security-Papers) ⭐ 201 | 🐛 0 | 📅 2026-03-06** — Comprehensive collection of academic papers, tools, and talks
+* **[Cellular-Security-Papers](https://github.com/onehouwong/Cellular-Security-Papers) ⭐ 202 | 🐛 0 | 📅 2026-03-06** — Comprehensive collection of academic papers, tools, and talks
 * **[Firmware-Analysis-Papers](https://github.com/onehouwong/Firmware-Analysis-Papers) ⭐ 85 | 🐛 0 | 📅 2021-08-30** — Baseband and firmware security papers
 * **[Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)** — This repository
 * **[5GSEC](https://github.com/5GSEC)** — 5G security research organization
 
 ### Development and Analysis Tools
 
-* **[RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) ⭐ 1,737 | 🐛 1 | 📅 2024-05-28** — RF security testing tools
+* **[RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) ⭐ 1,736 | 🐛 1 | 📅 2024-05-28** — RF security testing tools
 * **[RTL-SDR Community](https://www.rtl-sdr.com/)** — SDR resources and tutorials
 * **[MCC-MNC Database](http://www.mcc-mnc.com/)** — Mobile Country/Network Code reference
 * **[cellularsecurity.org](https://cellularsecurity.org/)** — Community resource for cellular security research
@@ -1010,4 +1010,4 @@ This repository is for educational and research purposes only. Users are respons
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
