@@ -295,7 +295,7 @@
                 "open_issues": 375,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4100,
+                "stars": 4102,
                 "topics": [
                   "lte",
                   "sdr",
@@ -322,8 +322,8 @@
                 "id": 237391530,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T04:27:09Z",
-                "open_issues": 112,
+                "last_commit": "2026-11-03T17:28:38Z",
+                "open_issues": 104,
                 "owner": "free5gc",
                 "repo": "free5gc",
                 "stars": 2369,
@@ -362,7 +362,7 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-02T22:49:41Z",
+                "last_commit": "2026-11-04T07:18:19Z",
                 "open_issues": 347,
                 "owner": "open5gs",
                 "repo": "open5gs",
@@ -450,8 +450,8 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-02T23:22:40Z",
-                "open_issues": 98,
+                "last_commit": "2026-11-03T19:53:04Z",
+                "open_issues": 97,
                 "owner": "EFForg",
                 "repo": "rayhunter",
                 "stars": 6041,
@@ -609,7 +609,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5438,
+                "stars": 5439,
                 "topics": [
                   "android"
                 ]
@@ -1140,7 +1140,7 @@
                 "open_issues": 375,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4100,
+                "stars": 4102,
                 "topics": [
                   "lte",
                   "sdr",
@@ -1167,7 +1167,7 @@
                 "id": 49863805,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-03T07:41:45Z",
+                "last_commit": "2026-11-03T10:01:03Z",
                 "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
@@ -1208,8 +1208,8 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-02T23:22:40Z",
-                "open_issues": 98,
+                "last_commit": "2026-11-03T19:53:04Z",
+                "open_issues": 97,
                 "owner": "EFForg",
                 "repo": "rayhunter",
                 "stars": 6041,
@@ -1290,7 +1290,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5438,
+                "stars": 5439,
                 "topics": [
                   "android"
                 ]
@@ -1565,10 +1565,213 @@
         }
       ],
       "title": "Resources"
+    },
+    {
+      "description": "Append-only research update, November 3, 2026. The original resources above have been retained without modification. Entries below link to original research, published papers, vendor bulletins, or registered vulnerability disclosures. A published CVE or laboratory proof of concept does not by itself establish exploitation in the wild.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVE-2026-106806: Open5GS HTTP/2 SBI Memory Exhaustion",
+              "description": "Nov 2, 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)",
+                "homepage": "https://open5gs.org",
+                "id": 80611216,
+                "language": "C",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-11-04T07:18:19Z",
+                "open_issues": 347,
+                "owner": "open5gs",
+                "repo": "open5gs",
+                "stars": 2802,
+                "topics": [
+                  "3gpp",
+                  "4g",
+                  "5g",
+                  "5gc",
+                  "core",
+                  "epc",
+                  "lte",
+                  "network",
+                  "nr",
+                  "open5gs"
+                ]
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CVE-2026-106807: Open5GS PFCP Transaction Exhaustion",
+              "description": "Nov 2, 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)",
+                "homepage": "https://open5gs.org",
+                "id": 80611216,
+                "language": "C",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-11-04T07:18:19Z",
+                "open_issues": 347,
+                "owner": "open5gs",
+                "repo": "open5gs",
+                "stars": 2802,
+                "topics": [
+                  "3gpp",
+                  "4g",
+                  "5g",
+                  "5gc",
+                  "core",
+                  "epc",
+                  "lte",
+                  "network",
+                  "nr",
+                  "open5gs"
+                ]
+              },
+              "first_seen": "2026-08-29T04:20:06.855Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CVE-2026-106805: free5GC PFCP Session Establishment Resource Exhaustion",
+              "description": "Nov 2, 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open source 5G core network based on 3GPP R17",
+                "homepage": "https://free5gc.org",
+                "id": 237391530,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-03T17:28:38Z",
+                "open_issues": 104,
+                "owner": "free5gc",
+                "repo": "free5gc",
+                "stars": 2369,
+                "topics": [
+                  "3gpp",
+                  "5g",
+                  "5gc",
+                  "amf",
+                  "ausf",
+                  "bsf",
+                  "core-network",
+                  "free5gc",
+                  "n3iwf",
+                  "nrf",
+                  "nssf",
+                  "pcf",
+                  "release15",
+                  "scp",
+                  "smf",
+                  "udm",
+                  "udr",
+                  "upf"
+                ]
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CVE-2026-25501: free5GC SMF PFCP Session Report Crash",
+              "description": "Feb 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open source 5G core network based on 3GPP R17",
+                "homepage": "https://free5gc.org",
+                "id": 237391530,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-03T17:28:38Z",
+                "open_issues": 104,
+                "owner": "free5gc",
+                "repo": "free5gc",
+                "stars": 2369,
+                "topics": [
+                  "3gpp",
+                  "5g",
+                  "5gc",
+                  "amf",
+                  "ausf",
+                  "bsf",
+                  "core-network",
+                  "free5gc",
+                  "n3iwf",
+                  "nrf",
+                  "nssf",
+                  "pcf",
+                  "release15",
+                  "scp",
+                  "smf",
+                  "udm",
+                  "udr",
+                  "upf"
+                ]
+              },
+              "first_seen": "2026-08-28T12:40:33.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CVE-2026-117068: OpenAirInterface AMF NAS Registration Crash",
+              "description": "Nov 2, 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OAI 5G Core Network Access and Mobility Management Function (AMF)",
+                "homepage": "https://openairinterface.org/core-network/",
+                "id": 1291820475,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-02T13:03:15Z",
+                "open_issues": 31,
+                "owner": "openairinterface",
+                "repo": "oai-cn5g-amf",
+                "stars": 2,
+                "topics": [
+                  "openairinterface-cn5g"
+                ]
+              },
+              "first_seen": "2026-11-04T07:26:22.158Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CVE-2026-106808: OpenAirInterface UDM Authentication Endpoint Stack Overflow",
+              "description": "Nov 2, 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OAI 5G Core Network Unified Data Management (UDM)",
+                "homepage": "https://openairinterface.org/core-network/",
+                "id": 1291826070,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-03T11:00:25Z",
+                "open_issues": 1,
+                "owner": "openairinterface",
+                "repo": "oai-cn5g-udm",
+                "stars": 0,
+                "topics": [
+                  "openairinterface-cn5g"
+                ]
+              },
+              "first_seen": "2026-11-04T07:26:22.158Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LTE/5G Core Networks, PFCP, GTP-C, and Service-Based Interfaces"
+        }
+      ],
+      "title": "Verified Cellular Security Research Additions (September-November 2026)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:48:50.287Z",
+    "last_updated": "2026-11-04T07:26:22.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1576,11 +1779,11 @@
       "id": 187701900,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-28T17:45:58Z",
+      "last_commit": "2026-11-03T10:35:21Z",
       "open_issues": 1,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4104,
+      "stars": 4106,
       "topics": [
         "eviltwin",
         "gsm",
@@ -1592,7 +1795,7 @@
         "sdr"
       ]
     },
-    "original_repository_sha": "62ae1e4dd84c8e02235e1a22a4abe87d0e21ef19",
+    "original_repository_sha": "b79e0e6622ed0bd2d0ffb97499031e33d2be94a9",
     "enhanced_repository": "enhansome/enhansome-Awesome-Cellular-Hacking",
     "enhanced_repository_description": null,
     "title": "Awesome Cellular Hacking with stars"
