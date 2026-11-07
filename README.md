@@ -215,10 +215,10 @@ New to cellular security research? This section outlines the recommended path fo
 | **OpenBTS (Original)**      | Range Networks implementation                                | [SourceForge](https://sourceforge.net/projects/openbts/)                                   |
 | **YateBTS**                 | GSM/GPRS radio access network implementation                 | [Website](https://yatebts.com/)                                                            |
 | **srsRAN Project**          | Open-source 5G O-RAN CU/DU software suite                    | [GitHub](https://github.com/srsran/srsRAN_Project) ⚠️ Archived                             |
-| **srsRAN 4G**               | Open-source 4G software radio suite                          | [GitHub](https://github.com/srsran/srsRAN_4G) ⭐ 4,104 \| 🐛 376 \| 🌐 C++ \| 📅 2026-11-02 |
+| **srsRAN 4G**               | Open-source 4G software radio suite                          | [GitHub](https://github.com/srsran/srsRAN_4G) ⭐ 4,104 \| 🐛 375 \| 🌐 C++ \| 📅 2026-11-06 |
 | **OpenAirInterface**        | Complete 4G/5G protocol stack                                | [Website](https://openairinterface.org/)                                                   |
-| **Free5GC**                 | Open-source 5G core network implementation                   | [GitHub](https://github.com/free5gc/free5gc) ⭐ 2,370 \| 🐛 106 \| 🌐 Go \| 📅 2026-11-05   |
-| **Open5GS**                 | Open-source 5G core and EPC implementation                   | [GitHub](https://github.com/open5gs/open5gs) ⭐ 2,803 \| 🐛 347 \| 🌐 C \| 📅 2026-11-06    |
+| **Free5GC**                 | Open-source 5G core network implementation                   | [GitHub](https://github.com/free5gc/free5gc) ⭐ 2,370 \| 🐛 107 \| 🌐 Go \| 📅 2026-11-05   |
+| **Open5GS**                 | Open-source 5G core and EPC implementation                   | [GitHub](https://github.com/open5gs/open5gs) ⭐ 2,806 \| 🐛 321 \| 🌐 C \| 📅 2026-11-06    |
 | **Kamailio**                | Open-source SIP server used in IMS/VoLTE labs                | [Website](https://www.kamailio.org/)                                                       |
 
 ### Configuration Guides
@@ -261,7 +261,7 @@ New to cellular security research? This section outlines the recommended path fo
 | **ProChecker**            | FSM extraction + model checking for 4G LTE implementations                                                                                       | [Paper](https://www.researchgate.net/publication/353412860)                                                                                  |
 | **LTEInspector**          | Property-driven adversarial model-based testing for 4G LTE                                                                                       | [Paper](https://syed-rafiul-hussain.github.io/index.php/teaching/cse543-f21/docs/lteinspector.pdf)                                           |
 | **BASECOMP**              | Comparative analysis for baseband integrity protection                                                                                           | [GitHub](https://github.com/kaist-hacking/BaseComp) ⭐ 19 \| 🐛 0 \| 🌐 C \| 📅 2023-10-10                                                    |
-| **BaseTrace**             | Framework for iPhone baseband interface research                                                                                                 | [GitHub](https://github.com/seemoo-lab/BaseTrace) ⭐ 90 \| 🐛 0 \| 🌐 Python \| 📅 2026-05-19                                                 |
+| **BaseTrace**             | Framework for iPhone baseband interface research                                                                                                 | [GitHub](https://github.com/seemoo-lab/BaseTrace) ⭐ 91 \| 🐛 0 \| 🌐 Python \| 📅 2026-05-19                                                 |
 | **ss7map**                | SS7 network exposure mapping                                                                                                                     | [P1 Security](https://ss7map.p1sec.com/)                                                                                                     |
 | **Osmocom Suite**         | Complete open-source GSM/GPRS stack                                                                                                              | [Osmocom](https://osmocom.org/projects)                                                                                                      |
 
@@ -671,10 +671,10 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 | Component       | Purpose                     | Link                                                                                                       |
 | --------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | Ettus USRP B210 | Software Defined Radio      | [Product Page](https://www.ettus.com/all-products/ub210-kit/)                                              |
-| srsENB          | 4G/5G Base Station Software | [GitHub](https://github.com/srsran/srsRAN/tree/master/srsenb) ⭐ 4,104 \| 🐛 376 \| 🌐 C++ \| 📅 2026-11-02 |
+| srsENB          | 4G/5G Base Station Software | [GitHub](https://github.com/srsran/srsRAN/tree/master/srsenb) ⭐ 4,104 \| 🐛 375 \| 🌐 C++ \| 📅 2026-11-06 |
 | Open5GS         | 5G Core Network             | [GitHub](https://github.com/open5gs)                                                                       |
 | sysmo-usim-tool | SIM Programming             | [Project Page](https://osmocom.org/projects/cellular-infrastructure/wiki/SysmoISIM-SJA2)                   |
-| pysim           | SIM Analysis Tool           | [GitHub](https://github.com/osmocom/pysim) ⭐ 605 \| 🐛 1 \| 🌐 Python \| 📅 2026-11-04                     |
+| pysim           | SIM Analysis Tool           | [GitHub](https://github.com/osmocom/pysim) ⭐ 606 \| 🐛 1 \| 🌐 Python \| 📅 2026-11-04                     |
 | CoIMS           | VoLTE Testing               | [Play Store](https://play.google.com/store/apps/details?id=com.sherle.coims)                               |
 | Docker Open5GS  | Containerized Core          | [Tutorial](https://open5gs.org/open5gs/docs/tutorial/03-VoLTE-dockerized/)                                 |
 
@@ -692,7 +692,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
   iOS app that detects rogue base stations by analyzing baseband packets in real-time. Integrates with the Apple Cell Location Database for anomaly detection. [Website](https://cellguard.seemoo.tu-darmstadt.de/) — [Research Paper](https://dl.acm.org/doi/10.1145/3678890.3678898)
 
-* **[BaseTrace](https://github.com/seemoo-lab/BaseTrace) ⭐ 90 | 🐛 0 | 🌐 Python | 📅 2026-05-19** — SEEMOO Lab
+* **[BaseTrace](https://github.com/seemoo-lab/BaseTrace) ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2026-05-19** — SEEMOO Lab
 
   Framework for researching the interface between iPhone's application processor and baseband.
 
@@ -869,7 +869,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### Lab Environments
 
-* **[OpenAirInterface Lab Setup](https://github.com/OpenAirInterface/openairinterface5g) ⭐ 230 | 🐛 3 | 🌐 C | 📅 2026-11-01** — Open-source 5G lab environment
+* **[OpenAirInterface Lab Setup](https://github.com/OpenAirInterface/openairinterface5g) ⭐ 230 | 🐛 3 | 🌐 C | 📅 2026-11-06** — Open-source 5G lab environment
 * **[Open5GS + srsRAN Lab Setup](https://github.com/s5uishida/open5gs_5gc_srsran_sample_config) ⭐ 16 | 🐛 4 | 📅 2026-05-16** — Complete 5G SA config with ZeroMQ UE/RAN
 * **[5G Security Datasets](https://github.com/DLTeamTUC/5GDatasets) ⭐ 14 | 🐛 0 | 📅 2025-07-31** — PCAP, CSV, and AMF logs for flooding/fuzzing/replay attacks on Open5GS, OAI, Amarisoft
 * **[End-to-End Open5GS-srsRAN Guide](https://github.com/ngkore/Open5GS-srsRAN) ⭐ 4 | 🐛 0 | 📅 2026-03-18** — Deployment guide for Ubuntu 22.04
@@ -907,7 +907,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 
 ### GitHub Collections
 
-* **[Cellular-Security-Papers](https://github.com/onehouwong/Cellular-Security-Papers) ⭐ 202 | 🐛 0 | 📅 2026-03-06** — Comprehensive collection of academic papers, tools, and talks
+* **[Cellular-Security-Papers](https://github.com/onehouwong/Cellular-Security-Papers) ⭐ 203 | 🐛 0 | 📅 2026-03-06** — Comprehensive collection of academic papers, tools, and talks
 * **[Firmware-Analysis-Papers](https://github.com/onehouwong/Firmware-Analysis-Papers) ⭐ 85 | 🐛 0 | 📅 2021-08-30** — Baseband and firmware security papers
 * **[Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)** — This repository
 * **[5GSEC](https://github.com/5GSEC)** — 5G security research organization
@@ -1030,23 +1030,23 @@ This repository is for educational and research purposes only. Users are respons
 
 ### LTE/5G Core Networks, PFCP, GTP-C, and Service-Based Interfaces
 
-* **[CVE-2026-106806: Open5GS HTTP/2 SBI Memory Exhaustion](https://github.com/open5gs/open5gs/issues/4788) ⭐ 2,803 | 🐛 347 | 🌐 C | 📅 2026-11-06** — Nov 2, 2026
+* **[CVE-2026-106806: Open5GS HTTP/2 SBI Memory Exhaustion](https://github.com/open5gs/open5gs/issues/4788) ⭐ 2,806 | 🐛 321 | 🌐 C | 📅 2026-11-06** — Nov 2, 2026
 
   Duplicate HTTP/2 header processing can leak allocated strings in Open5GS v2.8.0. Repeated malformed requests to a reachable Service-Based Interface (SBI) can exhaust network-function memory and cause denial of service. [CVE Record](https://nvd.nist.gov/vuln/detail/CVE-2026-106806)
 
-* **[CVE-2026-106807: Open5GS PFCP Transaction Exhaustion](https://github.com/open5gs/open5gs/issues/4791) ⭐ 2,803 | 🐛 347 | 🌐 C | 📅 2026-11-06** — Nov 2, 2026
+* **[CVE-2026-106807: Open5GS PFCP Transaction Exhaustion](https://github.com/open5gs/open5gs/issues/4791) ⭐ 2,806 | 🐛 321 | 🌐 C | 📅 2026-11-06** — Nov 2, 2026
 
   Resource exhaustion in Open5GS v2.8.0 PFCP transaction handling can trigger an unhandled assertion and terminate an SMF/UPF process. Exploitation requires the ability to send traffic to the affected PFCP interface. [CVE Record](https://nvd.nist.gov/vuln/detail/CVE-2026-106807)
 
-* **[CVE-2026-106805: free5GC PFCP Session Establishment Resource Exhaustion](https://github.com/free5gc/free5gc/issues/1162) ⭐ 2,370 | 🐛 106 | 🌐 Go | 📅 2026-11-05** — Nov 2, 2026
+* **[CVE-2026-106805: free5GC PFCP Session Establishment Resource Exhaustion](https://github.com/free5gc/free5gc/issues/1162) ⭐ 2,370 | 🐛 107 | 🌐 Go | 📅 2026-11-05** — Nov 2, 2026
 
   Free5GC v4.2.3 can fail to release allocated UE IP addresses when PFCP Session Establishment responses do not arrive. Repeated failures can exhaust the address pool and block new PDU sessions. [CVE Record](https://nvd.nist.gov/vuln/detail/CVE-2026-106805)
 
-* **[CVE-2026-25501: free5GC SMF PFCP Session Report Crash](https://github.com/free5gc/free5gc/security/advisories/GHSA-vq85-8f6p-g9q5) ⭐ 2,370 | 🐛 106 | 🌐 Go | 📅 2026-11-05** — Feb 2026
+* **[CVE-2026-25501: free5GC SMF PFCP Session Report Crash](https://github.com/free5gc/free5gc/security/advisories/GHSA-vq85-8f6p-g9q5) ⭐ 2,370 | 🐛 107 | 🌐 Go | 📅 2026-11-05** — Feb 2026
 
   A malformed PFCP SessionReportRequest with a Downlink Data Report flag but no corresponding information element triggers a nil-pointer dereference in free5GC SMF versions through 1.4.1. Restrict PFCP (UDP/8805) access to trusted network functions.
 
-* **[CVE-2026-117068: OpenAirInterface AMF NAS Registration Crash](https://github.com/openairinterface/oai-cn5g-amf/pull/26) ⭐ 2 | 🐛 31 | 🌐 C++ | 📅 2026-11-05** — Nov 2, 2026
+* **[CVE-2026-117068: OpenAirInterface AMF NAS Registration Crash](https://github.com/openairinterface/oai-cn5g-amf/pull/26) ⭐ 2 | 🐛 30 | 🌐 C++ | 📅 2026-11-06** — Nov 2, 2026
 
   A truncated SUCI in a NAS Registration Request can trigger integer underflow and an out-of-bounds read in the CN5G AMF v2.2.1 decoder, terminating the AMF process. [CVE Record](https://nvd.nist.gov/vuln/detail/CVE-2026-117068)
 
@@ -1142,4 +1142,4 @@ This repository is for educational and research purposes only. Users are respons
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
