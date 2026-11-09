@@ -208,7 +208,7 @@
                 "open_issues": 0,
                 "owner": "alphafox02",
                 "repo": "ransack",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -362,11 +362,11 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-08T05:12:13Z",
-                "open_issues": 325,
+                "last_commit": "2026-11-09T00:46:31Z",
+                "open_issues": 327,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2807,
+                "stars": 2808,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -433,7 +433,7 @@
                 "open_issues": 0,
                 "owner": "alphafox02",
                 "repo": "ransack",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -454,7 +454,7 @@
                 "open_issues": 100,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6048,
+                "stars": 6049,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -609,7 +609,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5439,
+                "stars": 5438,
                 "topics": [
                   "android"
                 ]
@@ -656,7 +656,7 @@
                 "open_issues": 16,
                 "owner": "falkenber9",
                 "repo": "falcon",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "lte",
                   "sdr",
@@ -773,7 +773,7 @@
                 "open_issues": 60,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 405,
+                "stars": 406,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1212,7 +1212,7 @@
                 "open_issues": 100,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6048,
+                "stars": 6049,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1290,7 +1290,7 @@
                 "open_issues": 185,
                 "owner": "CellularPrivacy",
                 "repo": "Android-IMSI-Catcher-Detector",
-                "stars": 5439,
+                "stars": 5438,
                 "topics": [
                   "android"
                 ]
@@ -1326,7 +1326,7 @@
                 "open_issues": 60,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 405,
+                "stars": 406,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1540,7 +1540,7 @@
                 "open_issues": 1,
                 "owner": "cn0xroot",
                 "repo": "RFSec-ToolKit",
-                "stars": 1736,
+                "stars": 1735,
                 "topics": [
                   "bladerf",
                   "communication",
@@ -1583,11 +1583,11 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-08T05:12:13Z",
-                "open_issues": 325,
+                "last_commit": "2026-11-09T00:46:31Z",
+                "open_issues": 327,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2807,
+                "stars": 2808,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -1615,11 +1615,11 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-08T05:12:13Z",
-                "open_issues": 325,
+                "last_commit": "2026-11-09T00:46:31Z",
+                "open_issues": 327,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2807,
+                "stars": 2808,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -1727,8 +1727,8 @@
                 "id": 1291820475,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-08T04:29:57Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-08T13:27:05Z",
+                "open_issues": 32,
                 "owner": "openairinterface",
                 "repo": "oai-cn5g-amf",
                 "stars": 2,
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T07:10:53.749Z",
+    "last_updated": "2026-11-09T07:51:51.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1783,7 +1783,7 @@
       "open_issues": 1,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4113,
+      "stars": 4116,
       "topics": [
         "eviltwin",
         "gsm",
