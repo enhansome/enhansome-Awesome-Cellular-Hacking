@@ -323,7 +323,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-14T04:06:25Z",
-                "open_issues": 103,
+                "open_issues": 102,
                 "owner": "free5gc",
                 "repo": "free5gc",
                 "stars": 2373,
@@ -362,8 +362,8 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T01:24:28Z",
-                "open_issues": 332,
+                "last_commit": "2026-11-15T07:08:57Z",
+                "open_issues": 326,
                 "owner": "open5gs",
                 "repo": "open5gs",
                 "stars": 2815,
@@ -451,10 +451,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-11T00:09:37Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6060,
+                "stars": 6061,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -517,7 +517,7 @@
                 "open_issues": 20,
                 "owner": "FirmWire",
                 "repo": "FirmWire",
-                "stars": 898,
+                "stars": 899,
                 "topics": [
                   "baseband",
                   "emulation",
@@ -656,7 +656,7 @@
                 "open_issues": 16,
                 "owner": "falkenber9",
                 "repo": "falcon",
-                "stars": 370,
+                "stars": 371,
                 "topics": [
                   "lte",
                   "sdr",
@@ -794,7 +794,7 @@
                 "open_issues": 10,
                 "owner": "fgsect",
                 "repo": "scat",
-                "stars": 542,
+                "stars": 543,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -917,7 +917,7 @@
                 "open_issues": 20,
                 "owner": "FirmWire",
                 "repo": "FirmWire",
-                "stars": 898,
+                "stars": 899,
                 "topics": [
                   "baseband",
                   "emulation",
@@ -1171,7 +1171,7 @@
                 "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
-                "stars": 609,
+                "stars": 611,
                 "topics": [
                   "3gpp",
                   "cellular",
@@ -1209,10 +1209,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-11T00:09:37Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6060,
+                "stars": 6061,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1540,7 +1540,7 @@
                 "open_issues": 1,
                 "owner": "cn0xroot",
                 "repo": "RFSec-ToolKit",
-                "stars": 1737,
+                "stars": 1738,
                 "topics": [
                   "bladerf",
                   "communication",
@@ -1583,8 +1583,8 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T01:24:28Z",
-                "open_issues": 332,
+                "last_commit": "2026-11-15T07:08:57Z",
+                "open_issues": 326,
                 "owner": "open5gs",
                 "repo": "open5gs",
                 "stars": 2815,
@@ -1615,8 +1615,8 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T01:24:28Z",
-                "open_issues": 332,
+                "last_commit": "2026-11-15T07:08:57Z",
+                "open_issues": 326,
                 "owner": "open5gs",
                 "repo": "open5gs",
                 "stars": 2815,
@@ -1648,7 +1648,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-14T04:06:25Z",
-                "open_issues": 103,
+                "open_issues": 102,
                 "owner": "free5gc",
                 "repo": "free5gc",
                 "stars": 2373,
@@ -1688,7 +1688,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-14T04:06:25Z",
-                "open_issues": 103,
+                "open_issues": 102,
                 "owner": "free5gc",
                 "repo": "free5gc",
                 "stars": 2373,
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T07:31:33.238Z",
+    "last_updated": "2026-11-15T07:45:50.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1783,7 +1783,7 @@
       "open_issues": 1,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4124,
+      "stars": 4125,
       "topics": [
         "eviltwin",
         "gsm",
