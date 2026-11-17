@@ -295,7 +295,7 @@
                 "open_issues": 375,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4109,
+                "stars": 4108,
                 "topics": [
                   "lte",
                   "sdr",
@@ -323,10 +323,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-15T12:26:13Z",
-                "open_issues": 98,
+                "open_issues": 96,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2374,
+                "stars": 2375,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -362,11 +362,11 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-15T14:44:25Z",
-                "open_issues": 328,
+                "last_commit": "2026-11-16T12:26:58Z",
+                "open_issues": 333,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2815,
+                "stars": 2814,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -405,7 +405,7 @@
                 "open_issues": 158,
                 "owner": "Nuand",
                 "repo": "bladeRF",
-                "stars": 1384,
+                "stars": 1385,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -450,11 +450,11 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T00:09:37Z",
+                "last_commit": "2026-11-17T00:34:58Z",
                 "open_issues": 104,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6065,
+                "stars": 6068,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -588,7 +588,7 @@
                 "open_issues": 0,
                 "owner": "ptrkrysik",
                 "repo": "gr-gsm",
-                "stars": 1509,
+                "stars": 1510,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -773,7 +773,7 @@
                 "open_issues": 60,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 407,
+                "stars": 408,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1140,7 +1140,7 @@
                 "open_issues": 375,
                 "owner": "srsran",
                 "repo": "srsRAN_4G",
-                "stars": 4109,
+                "stars": 4108,
                 "topics": [
                   "lte",
                   "sdr",
@@ -1167,11 +1167,11 @@
                 "id": 49863805,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-04T13:22:56Z",
+                "last_commit": "2026-11-17T08:51:05Z",
                 "open_issues": 1,
                 "owner": "osmocom",
                 "repo": "pysim",
-                "stars": 611,
+                "stars": 612,
                 "topics": [
                   "3gpp",
                   "cellular",
@@ -1208,11 +1208,11 @@
                 "id": 716335769,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T00:09:37Z",
+                "last_commit": "2026-11-17T00:34:58Z",
                 "open_issues": 104,
                 "owner": "EFForg",
                 "repo": "rayhunter",
-                "stars": 6065,
+                "stars": 6068,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:20:06.855Z"
@@ -1326,7 +1326,7 @@
                 "open_issues": 60,
                 "owner": "SigPloiter",
                 "repo": "SigPloit",
-                "stars": 407,
+                "stars": 408,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1360,7 +1360,7 @@
                 "open_issues": 3,
                 "owner": "openairinterface",
                 "repo": "openairinterface5g",
-                "stars": 236,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:33.113Z"
@@ -1583,11 +1583,11 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-15T14:44:25Z",
-                "open_issues": 328,
+                "last_commit": "2026-11-16T12:26:58Z",
+                "open_issues": 333,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2815,
+                "stars": 2814,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -1615,11 +1615,11 @@
                 "id": 80611216,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-15T14:44:25Z",
-                "open_issues": 328,
+                "last_commit": "2026-11-16T12:26:58Z",
+                "open_issues": 333,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2815,
+                "stars": 2814,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -1648,10 +1648,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-15T12:26:13Z",
-                "open_issues": 98,
+                "open_issues": 96,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2374,
+                "stars": 2375,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -1688,10 +1688,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-15T12:26:13Z",
-                "open_issues": 98,
+                "open_issues": 96,
                 "owner": "free5gc",
                 "repo": "free5gc",
-                "stars": 2374,
+                "stars": 2375,
                 "topics": [
                   "3gpp",
                   "5g",
@@ -1727,8 +1727,8 @@
                 "id": 1291820475,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-08T13:27:05Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-16T21:51:57Z",
+                "open_issues": 34,
                 "owner": "openairinterface",
                 "repo": "oai-cn5g-amf",
                 "stars": 2,
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T07:52:43.384Z",
+    "last_updated": "2026-11-17T09:03:49.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-Cellular-Hacking",
@@ -1783,7 +1783,7 @@
       "open_issues": 1,
       "owner": "W00t3k",
       "repo": "Awesome-Cellular-Hacking",
-      "stars": 4129,
+      "stars": 4132,
       "topics": [
         "eviltwin",
         "gsm",
